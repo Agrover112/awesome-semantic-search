@@ -38,3 +38,4 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [fastText](https://fasttext.cc/)
 - [Universal Sentence Encoder](https://tfhub.dev/google/universal-sentence-encoder/4)
 - [SBERT](https://www.sbert.net/)
+- [Haystack](https://github.com/deepset-ai/haystack/)
