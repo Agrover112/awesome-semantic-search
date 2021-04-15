@@ -1,4 +1,7 @@
 # Awesome Semantic-Search
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 Following repository aims to serve a meta-repository for [Semantic Search](https://en.wikipedia.org/wiki/Semantic_search)
 , [Semantic Similarity](http://nlpprogress.com/english/semantic_textual_similarity.html) tasks.
 What is Semantic Search?
