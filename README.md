@@ -23,7 +23,7 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [Learning Semantic Textual Similarity from Conversations](https://arxiv.org/pdf/1804.07754.pdf)
 - [Google AI Blog: Advances in Semantic Textual Similarity](https://ai.googleblog.com/2018/05/advances-in-semantic-textual-similarity.html)
 - [Enriching Word Vectors with Subword Information](https://arxiv.org/abs/1607.04606)
-- -[Bag of Tricks for Efficient Text Classification](https://arxiv.org/abs/1607.01759)
+- [Bag of Tricks for Efficient Text Classification](https://arxiv.org/abs/1607.01759)
 - [Universal Sentence Encoder](https://arxiv.org/pdf/1803.11175.pdf)
 - [Skip-Thought Vectors](https://arxiv.org/pdf/1506.06726.pdf)
 
