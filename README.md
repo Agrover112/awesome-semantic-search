@@ -4,7 +4,6 @@
 
 Following repository aims to serve a meta-repository for [Semantic Search](https://en.wikipedia.org/wiki/Semantic_search)
 , [Semantic Similarity](http://nlpprogress.com/english/semantic_textual_similarity.html) tasks.
-What is Semantic Search?
 Semantic search denotes search with meaning, as distinguished from lexical search where the search engine looks for literal matches of the query words or variants of them, without understanding the overall meaning of the query.
 
 
