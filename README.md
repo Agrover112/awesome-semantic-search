@@ -40,6 +40,7 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [Universal Sentence Encoder](https://tfhub.dev/google/universal-sentence-encoder/4)
 - [SBERT](https://www.sbert.net/)
 - [Haystack](https://github.com/deepset-ai/haystack/)
+- [Jina.AI](https://jina.ai/)
 
 ## Datasets
 - [Semantic Text Similarity Dataset Hub](https://github.com/brmson/dataset-sts)
