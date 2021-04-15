@@ -1,7 +1,6 @@
 # Awesome Semantic-Search
-Following repository aims to serve a meta-repository for Semantic Search , Semantic Similarity based tasks.
-
-# Introduction 
+Following repository aims to serve a meta-repository for [Semantic Search](https://en.wikipedia.org/wiki/Semantic_search)
+, [Semantic Similarity](http://nlpprogress.com/english/semantic_textual_similarity.html) tasks.
 What is Semantic Search?
 Semantic search denotes search with meaning, as distinguished from lexical search where the search engine looks for literal matches of the query words or variants of them, without understanding the overall meaning of the query.
 
@@ -39,6 +38,7 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [SBERT](https://www.sbert.net/)
 - [Haystack](https://github.com/deepset-ai/haystack/)
 - [Jina.AI](https://jina.ai/)
+- [SentEval Toolkit](https://github.com/facebookresearch/SentEval?utm_source=catalyzex.com)
 
 ## Datasets
 - [Semantic Text Similarity Dataset Hub](https://github.com/brmson/dataset-sts)
