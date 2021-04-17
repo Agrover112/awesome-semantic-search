@@ -11,7 +11,7 @@ Semantic search denotes search with meaning, as distinguished from lexical searc
 - [A Latent Semantic Model with Convolutional-Pooling 
 Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cikm2014_cdssm_final.pdf)
 
-- [Augmented SBERT](2010.08240.pdf (arxiv.org))
+- [Augmented SBERT](https://arxiv.org/pdf/2010.08240.pdf)
   
 - [Making Monolingual Sentence Embeddings Multilingual using Knowledge Distillation](https://arxiv.org/pdf/2004.09813.pdf)
 
