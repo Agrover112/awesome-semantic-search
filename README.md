@@ -31,7 +31,7 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [Covidex: Neural Ranking Models and Keyword Search Infrastructure for the COVID-19 Open Research Dataset](https://arxiv.org/abs/2007.07846)
 - [Rapidly Deploying a Neural Search Engine for the COVID-19 Open Research Dataset: Preliminary Thoughts and Lessons Learned](https://arxiv.org/abs/2004.05125)
 - [Multi-Stage Document Ranking with BERT](https://arxiv.org/abs/1910.14424)
-- [ Document Expansion by Query Prediction](https://arxiv.org/abs/1904.08375)
+- [Document Expansion by Query Prediction](https://arxiv.org/abs/1904.08375)
 - [PASSAGE RE-RANKING WITH BERT](https://arxiv.org/pdf/1901.04085.pdf)
 
 ## Libraries and Tools
