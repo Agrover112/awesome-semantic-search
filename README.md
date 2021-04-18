@@ -1,9 +1,9 @@
 # Awesome Semantic-Search [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Following repository aims to serve a meta-repository for [Semantic Search](https://en.wikipedia.org/wiki/Semantic_search)
-, [Semantic Similarity](http://nlpprogress.com/english/semantic_textual_similarity.html) tasks.
-Semantic search denotes search with meaning, as distinguished from lexical search where the search engine looks for literal matches of the query words or variants of them, without understanding the overall meaning of the query.
+, [Semantic Similarity](http://nlpprogress.com/english/semantic_textual_similarity.html) related tasks.
 
+ Semantic Search isn't limited to text!, it can be done with images,speech ,etc. So there are numerous differnt use-cases and applications of of semantic search.
 
 ## Papers
 - [A Latent Semantic Model with Convolutional-Pooling 
