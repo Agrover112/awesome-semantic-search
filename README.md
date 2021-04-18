@@ -31,6 +31,7 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [Multi-Stage Document Ranking with BERT](https://arxiv.org/abs/1910.14424)
 - [Document Expansion by Query Prediction](https://arxiv.org/abs/1904.08375)
 - [PASSAGE RE-RANKING WITH BERT](https://arxiv.org/pdf/1901.04085.pdf)
+- [Learning Personal Style from Few Examples](https://chuanenlin.com/pseudoclient)
 
 ## Libraries and Tools
 - [fastText](https://fasttext.cc/)
@@ -39,6 +40,7 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [Haystack](https://github.com/deepset-ai/haystack/)
 - [Jina.AI](https://jina.ai/)
 - [SentEval Toolkit](https://github.com/facebookresearch/SentEval?utm_source=catalyzex.com)
+- [Which Frame?](http://whichframe.com/)
 
 ## Datasets
 - [Semantic Text Similarity Dataset Hub](https://github.com/brmson/dataset-sts)
