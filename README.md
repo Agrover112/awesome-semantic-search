@@ -32,6 +32,7 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [Document Expansion by Query Prediction](https://arxiv.org/abs/1904.08375)
 - [PASSAGE RE-RANKING WITH BERT](https://arxiv.org/pdf/1901.04085.pdf)
 - [Learning Personal Style from Few Examples](https://chuanenlin.com/pseudoclient)
+- [BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models](https://arxiv.org/abs/2104.08663)
 
 ## Libraries and Tools
 - [fastText](https://fasttext.cc/)
@@ -40,6 +41,7 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [Haystack](https://github.com/deepset-ai/haystack/)
 - [Jina.AI](https://jina.ai/)
 - [SentEval Toolkit](https://github.com/facebookresearch/SentEval?utm_source=catalyzex.com)
+- [BEIR :Benchmarking IR](https://github.com/UKPLab/beir)
 - [Which Frame?](http://whichframe.com/)
 
 ## Datasets
