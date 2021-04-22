@@ -1,4 +1,7 @@
 # Awesome Semantic-Search [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Logo](https://github.com/Agrover112/awesome-semantic-search/blob/Logo/logo.svg)
 
@@ -49,3 +52,23 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 ## Datasets
 - [Semantic Text Similarity Dataset Hub](https://github.com/brmson/dataset-sts)
 
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/AgentTango"><img src="https://avatars.githubusercontent.com/u/42416899?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Aditya Thakur</b></sub></a><br /><a href="#design-AgentTango" title="Design">🎨</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
