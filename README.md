@@ -17,9 +17,8 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [Making Monolingual Sentence Embeddings Multilingual using Knowledge Distillation](https://arxiv.org/pdf/2004.09813.pdf)
 
 - [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/pdf/1908.10084.pdf)
-
+- [LaBSE:Language-agnostic BERT Sentence Embedding](https://arxiv.org/abs/2007.01852)
 - [Supervised Learning of Universal Sentence Representations from Natural Language Inference Data](https://research.fb.com/wp-content/uploads/2017/09/emnlp2017.pdf)
-
 - [Learning Semantic Textual Similarity from Conversations](https://arxiv.org/pdf/1804.07754.pdf)
 - [Google AI Blog: Advances in Semantic Textual Similarity](https://ai.googleblog.com/2018/05/advances-in-semantic-textual-similarity.html)
 - [Enriching Word Vectors with Subword Information](https://arxiv.org/abs/1607.04606)
@@ -41,6 +40,7 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [fastText](https://fasttext.cc/)
 - [Universal Sentence Encoder](https://tfhub.dev/google/universal-sentence-encoder/4)
 - [SBERT](https://www.sbert.net/)
+- [LaBSE](https://tfhub.dev/google/LaBSE/2)
 - [Haystack](https://github.com/deepset-ai/haystack/)
 - [Jina.AI](https://jina.ai/)
 - [SentEval Toolkit](https://github.com/facebookresearch/SentEval?utm_source=catalyzex.com)
