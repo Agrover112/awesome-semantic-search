@@ -1,12 +1,11 @@
 # Awesome Semantic-Search [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ![Logo](https://github.com/Agrover112/awesome-semantic-search/blob/Logo/logo.svg)
-Logo made by [@createdbytango](https://instagram.com/createdbytango). Dm him on Insta for more info on branding.
+Logo made by [@createdbytango](https://instagram.com/createdbytango). DM him on Instagram for more info on branding.
 
-Following repository aims to serve a meta-repository for [Semantic Search](https://en.wikipedia.org/wiki/Semantic_search)
-, [Semantic Similarity](http://nlpprogress.com/english/semantic_textual_similarity.html) related tasks.
+Following repository aims to serve a meta-repository for [Semantic Search](https://en.wikipedia.org/wiki/Semantic_search) and [Semantic Similarity](http://nlpprogress.com/english/semantic_textual_similarity.html) related tasks.
 
- Semantic Search isn't limited to text! it can be done with images,speech ,etc. So there are numerous different use-cases and applications of of semantic search.
+ Semantic Search isn't limited to text! It can be done with images, speech, etc. So there are numerous different use-cases and applications of semantic search.
 
 ## Papers
 - [A Latent Semantic Model with Convolutional-Pooling 
