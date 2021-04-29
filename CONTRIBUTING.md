@@ -9,5 +9,6 @@ Some contributing rules you should follow.
 8. Description should start with a capital letter and be ended with proper punctuation.
 10. Any new section to be added can be discussed. Make a relevant isseue and link it to the discussion.
 12. If a **Issue** with the corresponding **Pull Request** being raised , *link the Issue in the corresponding Pull Request*.
+13. * Add a short description to every Pull Request  *
  
 Feel free to propose any other changes in the list.
