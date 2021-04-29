@@ -8,73 +8,46 @@ Following repository aims to serve a meta-repository for [Semantic Search](https
  Semantic Search isn't limited to text! It can be done with images, speech, etc. So there are numerous different use-cases and applications of semantic search.
 
 ## Papers
-## Submitted on 22 june 2015
+
+## 2014 
+- [A Latent Semantic Model with Convolutional-Pooling 
+Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cikm2014_cdssm_final.pdf)
+## 2015
 - [Skip-Thought Vectors](https://arxiv.org/pdf/1506.06726.pdf)
 
-## Submitted on 6 july 2016
+## 2016
 - [Bag of Tricks for Efficient Text Classification](https://arxiv.org/abs/1607.01759)
-
-
-## Submitted on  15 july 2016
 - [Enriching Word Vectors with Subword Information](https://arxiv.org/abs/1607.04606)
-
-## Submitted on 12 april 2018
+## 2017
+- [Supervised Learning of Universal Sentence Representations from Natural Language Inference Data](https://research.fb.com/wp-content/uploads/2017/09/emnlp2017.pdf)
+## 2018
 - [Universal Sentence Encoder](https://arxiv.org/pdf/1803.11175.pdf)
-
-## Submitted on 20 april 2018
 - [Learning Semantic Textual Similarity from Conversations](https://arxiv.org/pdf/1804.07754.pdf)
-
-## Submitted on 17 may 2018
 - [Google AI Blog: Advances in Semantic Textual Similarity](https://ai.googleblog.com/2018/05/advances-in-semantic-textual-similarity.html)
 
-## Submitted on 22 jan 2019
+## 2019
 - [LASER: Language Agnostic Sentence Representations](https://engineering.fb.com/2019/01/22/ai-research/laser-multilingual-sentence-embeddings/)
-
-## Submitted on 17 april 2019
 - [Document Expansion by Query Prediction](https://arxiv.org/abs/1904.08375)
-
-## Submitted on 27 Aug 2019
 - [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/pdf/1908.10084.pdf)
-
-## Submitted on 31 oct 2019
 - [Multi-Stage Document Ranking with BERT](https://arxiv.org/abs/1910.14424)
 
-## Submitted on 10 april 2020
+## 2020
 - [Rapidly Deploying a Neural Search Engine for the COVID-19 Open Research Dataset: Preliminary Thoughts and Lessons Learned](https://arxiv.org/abs/2004.05125)
-
-## Submitted on 14 april 2020
 - [PASSAGE RE-RANKING WITH BERT](https://arxiv.org/pdf/1901.04085.pdf)
-
-## Submitted on 17 june 2020
 - [CO-Search: COVID-19 Information Retrieval with Semantic Search, Question Answering, and Abstractive Summarization](https://arxiv.org/pdf/2006.09595.pdf)
-
-## Submitted on 3 july 2020
 - [LaBSE:Language-agnostic BERT Sentence Embedding](https://arxiv.org/abs/2007.01852)
-
-## Submitted on 14 july 2020
 - [Covidex: Neural Ranking Models and Keyword Search Infrastructure for the COVID-19 Open Research Dataset](https://arxiv.org/abs/2007.07846)
-
-## Submitted on 28 july 2020
 - [DeText: A deep NLP framework for intelligent text understanding](https://engineering.linkedin.com/blog/2020/open-sourcing-detext)
-
-## Submitted on 5 october 2020
 - [Making Monolingual Sentence Embeddings Multilingual using Knowledge Distillation](https://arxiv.org/pdf/2004.09813.pdf)
 
-## Submitted on 12 april 2021
+## 2021
 - [Augmented SBERT](https://arxiv.org/pdf/2010.08240.pdf)
-
-## 17 april 2021
 - [BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models](https://arxiv.org/abs/2104.08663)
 
 
-## submission date not availabele
-- [A Latent Semantic Model with Convolutional-Pooling 
-Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cikm2014_cdssm_final.pdf)
 
-## submission date not availabele
-- [Supervised Learning of Universal Sentence Representations from Natural Language Inference Data](https://research.fb.com/wp-content/uploads/2017/09/emnlp2017.pdf)
 
-## data not availabele
+## ?2021/2022?
 - [Learning Personal Style from Few Examples](https://chuanenlin.com/pseudoclient)
 
 ## Libraries and Tools
