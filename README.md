@@ -9,29 +9,29 @@ Following repository aims to serve a meta-repository for [Semantic Search](https
 
 ## Papers
 
-## 2014 
+### 2014 
 - [A Latent Semantic Model with Convolutional-Pooling 
 Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cikm2014_cdssm_final.pdf)
-## 2015
+### 2015
 - [Skip-Thought Vectors](https://arxiv.org/pdf/1506.06726.pdf)
 
-## 2016
+### 2016
 - [Bag of Tricks for Efficient Text Classification](https://arxiv.org/abs/1607.01759)
 - [Enriching Word Vectors with Subword Information](https://arxiv.org/abs/1607.04606)
-## 2017
+### 2017
 - [Supervised Learning of Universal Sentence Representations from Natural Language Inference Data](https://research.fb.com/wp-content/uploads/2017/09/emnlp2017.pdf)
-## 2018
+### 2018
 - [Universal Sentence Encoder](https://arxiv.org/pdf/1803.11175.pdf)
 - [Learning Semantic Textual Similarity from Conversations](https://arxiv.org/pdf/1804.07754.pdf)
 - [Google AI Blog: Advances in Semantic Textual Similarity](https://ai.googleblog.com/2018/05/advances-in-semantic-textual-similarity.html)
 
-## 2019
+### 2019
 - [LASER: Language Agnostic Sentence Representations](https://engineering.fb.com/2019/01/22/ai-research/laser-multilingual-sentence-embeddings/)
 - [Document Expansion by Query Prediction](https://arxiv.org/abs/1904.08375)
 - [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/pdf/1908.10084.pdf)
 - [Multi-Stage Document Ranking with BERT](https://arxiv.org/abs/1910.14424)
 
-## 2020
+### 2020
 - [Rapidly Deploying a Neural Search Engine for the COVID-19 Open Research Dataset: Preliminary Thoughts and Lessons Learned](https://arxiv.org/abs/2004.05125)
 - [PASSAGE RE-RANKING WITH BERT](https://arxiv.org/pdf/1901.04085.pdf)
 - [CO-Search: COVID-19 Information Retrieval with Semantic Search, Question Answering, and Abstractive Summarization](https://arxiv.org/pdf/2006.09595.pdf)
@@ -40,14 +40,14 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [DeText: A deep NLP framework for intelligent text understanding](https://engineering.linkedin.com/blog/2020/open-sourcing-detext)
 - [Making Monolingual Sentence Embeddings Multilingual using Knowledge Distillation](https://arxiv.org/pdf/2004.09813.pdf)
 
-## 2021
+### 2021
 - [Augmented SBERT](https://arxiv.org/pdf/2010.08240.pdf)
 - [BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models](https://arxiv.org/abs/2104.08663)
 
 
 
 
-## ?2021/2022?
+### ?2021/2022?
 - [Learning Personal Style from Few Examples](https://chuanenlin.com/pseudoclient)
 
 ## Libraries and Tools
