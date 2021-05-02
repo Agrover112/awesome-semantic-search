@@ -39,6 +39,7 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [Covidex: Neural Ranking Models and Keyword Search Infrastructure for the COVID-19 Open Research Dataset](https://arxiv.org/abs/2007.07846)
 - [DeText: A deep NLP framework for intelligent text understanding](https://engineering.linkedin.com/blog/2020/open-sourcing-detext)
 - [Making Monolingual Sentence Embeddings Multilingual using Knowledge Distillation](https://arxiv.org/pdf/2004.09813.pdf)
+- [Pretrained Transformers for Text Ranking: BERT and Beyond](https://arxiv.org/abs/2010.06467)
 
 ### 2021
 - [Augmented SBERT](https://arxiv.org/pdf/2010.08240.pdf)
@@ -49,7 +50,7 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 
 ### ?2021/2022?
 - [Learning Personal Style from Few Examples](https://chuanenlin.com/pseudoclient)
-- [Pretrained Transformers for Text Ranking: BERT and Beyond](https://arxiv.org/abs/2010.06467)
+
 
 ## Libraries and Tools
 - [fastText](https://fasttext.cc/)
