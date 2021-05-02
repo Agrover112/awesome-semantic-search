@@ -62,6 +62,7 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [SentEval Toolkit](https://github.com/facebookresearch/SentEval?utm_source=catalyzex.com)
 - [BEIR :Benchmarking IR](https://github.com/UKPLab/beir)
 - [Which Frame?](http://whichframe.com/)
+- [PySerini](https://github.com/castorini/pyserini)
 
 ## Datasets
 - [Semantic Text Similarity Dataset Hub](https://github.com/brmson/dataset-sts)
