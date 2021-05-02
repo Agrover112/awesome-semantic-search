@@ -49,6 +49,7 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 
 ### ?2021/2022?
 - [Learning Personal Style from Few Examples](https://chuanenlin.com/pseudoclient)
+- [Pretrained Transformers for Text Ranking: BERT and Beyond](https://arxiv.org/abs/2010.06467)
 
 ## Libraries and Tools
 - [fastText](https://fasttext.cc/)
