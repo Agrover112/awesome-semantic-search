@@ -64,6 +64,7 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [BEIR :Benchmarking IR](https://github.com/UKPLab/beir)
 - [Which Frame?](http://whichframe.com/)
 - [PySerini](https://github.com/castorini/pyserini)
+- [milvus](https://www.milvus.io/)
 
 ## Datasets
 - [Semantic Text Similarity Dataset Hub](https://github.com/brmson/dataset-sts)
