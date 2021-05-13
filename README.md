@@ -1,6 +1,6 @@
 # Awesome Semantic-Search [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![Logo](https://github.com/Agrover112/awesome-semantic-search/blob/Logo/logo.svg)
+![Logo](https://github.com/Agrover112/awesome-semantic-search/blob/main/logo.svg)
 Logo made by [@createdbytango](https://instagram.com/createdbytango). 
 
 Following repository aims to serve a meta-repository for [Semantic Search](https://en.wikipedia.org/wiki/Semantic_search) and [Semantic Similarity](http://nlpprogress.com/english/semantic_textual_similarity.html) related tasks.
