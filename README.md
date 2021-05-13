@@ -9,7 +9,6 @@ Following repository aims to serve a meta-repository for [Semantic Search](https
 
 ## Table Of Contents
 
-- [Awesome Semantic-Search](#awesome-semantic-search-)
 - [Papers](#papers)
     - [2014](#2014)
     - [2015](#2015)
