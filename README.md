@@ -7,8 +7,22 @@ Following repository aims to serve a meta-repository for [Semantic Search](https
 
  Semantic Search isn't limited to text! It can be done with images, speech, etc. So there are numerous different use-cases and applications of semantic search.
 
-## Papers
+## Table Of Contents
 
+- [Papers](#papers)
+    - [2014](#2014)
+    - [2015](#2015)
+    - [2016](#2016)
+    - [2017](#2017)
+    - [2018](#2018)
+    - [2019](#2019)
+    - [2020](#2020)
+    - [2021](#2021)
+    - [?2021/2020?](#20212022)
+- [Libraries and Tools](#libraries-and-tools)
+- [Datasets](#datasets)
+
+## Papers
 ### 2014 
 - [A Latent Semantic Model with Convolutional-Pooling 
 Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cikm2014_cdssm_final.pdf)
