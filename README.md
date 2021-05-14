@@ -5,7 +5,11 @@ Logo made by [@createdbytango](https://instagram.com/createdbytango).
 
 Following repository aims to serve a meta-repository for [Semantic Search](https://en.wikipedia.org/wiki/Semantic_search) and [Semantic Similarity](http://nlpprogress.com/english/semantic_textual_similarity.html) related tasks.
 
- Semantic Search isn't limited to text! It can be done with images, speech, etc. So there are numerous different use-cases and applications of semantic search.
+Semantic Search isn't limited to text! It can be done with images, speech, etc. So there are numerous different use-cases and applications of semantic search.
+
+## Contributions / Milestones
+
+Have a look at the [project board](https://github.com/Agrover112/awesome-semantic-search/projects/1) for the task list
 
 ## Table Of Contents
 
