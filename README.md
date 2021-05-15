@@ -1,6 +1,7 @@
 # Awesome Semantic-Search [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![Logo](https://github.com/Agrover112/awesome-semantic-search/blob/main/logo.svg)
+
+<img src ="logo.svg" />
 Logo made by [@createdbytango](https://instagram.com/createdbytango). 
 
 Following repository aims to serve a meta-repository for [Semantic Search](https://en.wikipedia.org/wiki/Semantic_search) and [Semantic Similarity](http://nlpprogress.com/english/semantic_textual_similarity.html) related tasks.
@@ -84,6 +85,7 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [PySerini](https://github.com/castorini/pyserini)
 - [milvus](https://www.milvus.io/)
 - [natural-language-youtube-search](https://github.com/haltakov/natural-language-youtube-search)
+
 ## Datasets
 - [Semantic Text Similarity Dataset Hub](https://github.com/brmson/dataset-sts)
 
