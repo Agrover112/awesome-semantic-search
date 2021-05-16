@@ -83,6 +83,7 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [Which Frame?](http://whichframe.com/)
 - [PySerini](https://github.com/castorini/pyserini)
 - [milvus](https://www.milvus.io/)
+- [weaviate](https://github.com/semi-technologies/weaviate)
 - [natural-language-youtube-search](https://github.com/haltakov/natural-language-youtube-search)
 
 ## Datasets
