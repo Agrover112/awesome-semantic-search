@@ -91,6 +91,7 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [milvus](https://www.milvus.io/)
 - [weaviate](https://github.com/semi-technologies/weaviate)
 - [natural-language-youtube-search](https://github.com/haltakov/natural-language-youtube-search)
+- [same.energy](https://www.same.energy/about)
 - [scaNN](https://github.com/google-research/google-research/tree/master/scann)
 - [annoy](https://github.com/spotify/annoy)
 - [faiss](https://github.com/facebookresearch/faiss)
