@@ -2,6 +2,7 @@
 
 
 <img src ="logo.svg" />
+
 Logo made by [@createdbytango](https://instagram.com/createdbytango). 
 
 Following repository aims to serve a meta-repository for [Semantic Search](https://en.wikipedia.org/wiki/Semantic_search) and [Semantic Similarity](http://nlpprogress.com/english/semantic_textual_similarity.html) related tasks.
