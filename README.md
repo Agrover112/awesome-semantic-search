@@ -32,6 +32,7 @@ Have a look at the [project board](https://github.com/Agrover112/awesome-semanti
 ### 2014 
 - [A Latent Semantic Model with Convolutional-Pooling 
 Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cikm2014_cdssm_final.pdf)
+
 ### 2015
 - [Skip-Thought Vectors](https://arxiv.org/pdf/1506.06726.pdf)
 
@@ -40,8 +41,10 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [Enriching Word Vectors with Subword Information](https://arxiv.org/abs/1607.04606)
 - [Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs](https://arxiv.org/abs/1603.09320)
 - [On Approximately Searching for Similar Word Embeddings](https://www.aclweb.org/anthology/P16-1214.pdf)
+
 ### 2017
 - [Supervised Learning of Universal Sentence Representations from Natural Language Inference Data](https://research.fb.com/wp-content/uploads/2017/09/emnlp2017.pdf)
+
 ### 2018
 - [Universal Sentence Encoder](https://arxiv.org/pdf/1803.11175.pdf)
 - [Learning Semantic Textual Similarity from Conversations](https://arxiv.org/pdf/1804.07754.pdf)
@@ -68,7 +71,6 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [Augmented SBERT](https://arxiv.org/pdf/2010.08240.pdf)
 - [BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models](https://arxiv.org/abs/2104.08663)
 - [Compatibility-aware Heterogeneous Visual Search](https://arxiv.org/abs/2105.06047)
-
 
 ### ?2021/2022?
 - [Learning Personal Style from Few Examples](https://chuanenlin.com/pseudoclient)
