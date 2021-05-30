@@ -1,0 +1,19 @@
+- name: urlchecker-action
+  uses: urlstechie/urlchecker-action@0.2.3
+  
+name: URLChecker
+on: [push, pull_request]
+
+jobs:
+  check-urls:
+    runs-on: ubuntu-latest
+    steps:
+    - name: urlchecker-action
+      uses: actions/checkout@v2
+    - name: Test GitHub Action
+      uses:  urlstechie/urlchecker-action@master
+      with: 
+        file_types: .md
+        exclude_patterns: https://github.com/Agrover112/awesome-semantic-search/issues, https://github.com/Agrover112/awesome-semantic-search/tree/main/.github
+        retry_count: 3
+        timeout : 5
