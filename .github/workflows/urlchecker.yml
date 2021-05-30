@@ -1,0 +1,19 @@
+  
+name: Check URLs
+
+on: [push, pull_request]
+
+jobs:
+  urlcheck:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: URLs-checker
+      uses: urlstechie/urlchecker-action@0.2.3
+      with:
+        file_types: .md
+        print_all: false
+        timeout: 10
+        retry_count: 3
+        exclude_patterns: https://github.com/Agrover112/awesome-semantic-search/issues
