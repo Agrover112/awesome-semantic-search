@@ -3,7 +3,7 @@ Awesome Semantic-Search [![Awesome](https://awesome.re/badge.svg)](https://aweso
 
 <img src ="logo.svg" />
 
-logo इनके द्वारा बनाया गया [@createdbytango](https://instagram.com/createdbytango).
+logo इनके द्वारा निर्मित  [@createdbytango](https://instagram.com/createdbytango).
 
 निम्नलिखित रिपॉजिटरी का उद्देश्य [सिमेंटिक
 सर्च](https://en.wikipedia.org/wiki/Semantic_search) और [सिमेंटिक
@@ -35,7 +35,7 @@ Contributions / Milestones
     -   [2021](#2021)
     -   [?2021/2020?](#20212022)
 -   [Libraries तथा Tools](#libraries-and-tools)
--   [डेटासेट](#डटसट) (\#datasets)
+-   [डेटासेट](#datasets)
 
 दस्तावेज़
 ---------
