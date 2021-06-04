@@ -123,8 +123,7 @@ Contributions / Milestones
 
 ### ?2021/2022?
 
--   [कुछ उदाहरणों से व्यक्तिगत शैली सीखना]
-    (https://chuanenlin.com/pseudoclient)
+-   [कुछ उदाहरणों से व्यक्तिगत शैली सीखना](https://chuanenlin.com/pseudoclient)
 
 Libraries तथा Tools
 -------------------
