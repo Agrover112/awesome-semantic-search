@@ -73,7 +73,6 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [Compatibility-aware Heterogeneous Visual Search](https://arxiv.org/abs/2105.06047) 📷
 - [Learning Personal Style from Few Examples](https://chuanenlin.com/personalstyle) 📄
 
-### ?2021/2022?
 
 ## Libraries and Tools
 - [fastText](https://fasttext.cc/)
