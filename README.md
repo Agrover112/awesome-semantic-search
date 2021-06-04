@@ -71,7 +71,7 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [Augmented SBERT](https://arxiv.org/pdf/2010.08240.pdf) 📄
 - [BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models](https://arxiv.org/abs/2104.08663) 📄
 - [Compatibility-aware Heterogeneous Visual Search](https://arxiv.org/abs/2105.06047) 📷
-- [Learning Personal Style from Few Examples](https://chuanenlin.com/personalstyle) 📄
+- [Learning Personal Style from Few Examples](https://chuanenlin.com/personalstyle)📷
 
 
 ## Libraries and Tools
