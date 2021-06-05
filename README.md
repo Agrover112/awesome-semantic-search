@@ -25,6 +25,7 @@ Have a look at the [project board](https://github.com/Agrover112/awesome-semanti
     - [2020](#2020)
     - [2021](#2021)
     - [?2021/2020?](#20212022)
+- [Articles](#articles)
 - [Libraries and Tools](#libraries-and-tools)
 - [Datasets](#datasets)
 
@@ -73,7 +74,12 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [Compatibility-aware Heterogeneous Visual Search](https://arxiv.org/abs/2105.06047) 📷
 - [Learning Personal Style from Few Examples](https://chuanenlin.com/personalstyle)📷
 
+## Articles
 
+- [Tackling Semantic Search](https://adityamalte.substack.com/p/tackle-semantic-search/)
+- [ Semantic search in Azure Congnitive Search](https://docs.microsoft.com/en-us/azure/search/semantic-search-overview)
+- [How we used semantic search to make our search 10x smarter](https://zilliz.com/blog/How-we-used-semantic-search-to-make-our-search-10-x-smarter)
+- [Building a semantic search engine with dual space word embeddings](https://m.mage.ai/building-a-semantic-search-engine-with-dual-space-word-embeddings-f5a596eb6d90)
 ## Libraries and Tools
 - [fastText](https://fasttext.cc/)
 - [Universal Sentence Encoder](https://tfhub.dev/google/universal-sentence-encoder/4)
