@@ -25,6 +25,7 @@ Have a look at the [project board](https://github.com/Agrover112/awesome-semanti
     - [2020](#2020)
     - [2021](#2021)
     - [?2021/2020?](#20212022)
+- [Articles](#articles)
 - [Libraries and Tools](#libraries-and-tools)
 - [Datasets](#datasets)
 
@@ -73,6 +74,9 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [Compatibility-aware Heterogeneous Visual Search](https://arxiv.org/abs/2105.06047) 📷
 - [Learning Personal Style from Few Examples](https://chuanenlin.com/personalstyle)📷
 
+## Articles
+
+- [Tackling Semantic Search](https://adityamalte.substack.com/p/tackle-semantic-search/)
 
 ## Libraries and Tools
 - [fastText](https://fasttext.cc/)
