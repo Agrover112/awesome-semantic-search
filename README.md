@@ -43,7 +43,8 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [Bag of Tricks for Efficient Text Classification](https://arxiv.org/abs/1607.01759) 📄
 - [Enriching Word Vectors with Subword Information](https://arxiv.org/abs/1607.04606) 📄
 - [Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs](https://arxiv.org/abs/1603.09320)
-- [On Approximately Searching for Similar Word Embeddings](https://www.aclweb.org/anthology/P16-1214.pdf) 📄
+- [On Approximately Searching for Similar Word Embeddings](https://www.aclweb.org/anthology/P16-1214.pdf) 
+- [Learning Distributed Representations of Sentences from Unlabelled Data](https://arxiv.org/abs/1602.03483)📄
 
 ### 2017
 - [Supervised Learning of Universal Sentence Representations from Natural Language Inference Data](https://research.fb.com/wp-content/uploads/2017/09/emnlp2017.pdf) 📄
@@ -75,6 +76,7 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models](https://arxiv.org/abs/2104.08663) 📄
 - [Compatibility-aware Heterogeneous Visual Search](https://arxiv.org/abs/2105.06047) 📷
 - [Learning Personal Style from Few Examples](https://chuanenlin.com/personalstyle)📷
+- [TSDAE: Using Transformer-based Sequential Denoising Auto-Encoder for Unsupervised Sentence Embedding Learning](https://arxiv.org/abs/2104.06979)📄
 
 ## Articles
 
@@ -82,6 +84,7 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [ Semantic search in Azure Congnitive Search](https://docs.microsoft.com/en-us/azure/search/semantic-search-overview)
 - [How we used semantic search to make our search 10x smarter](https://zilliz.com/blog/How-we-used-semantic-search-to-make-our-search-10-x-smarter)
 - [Building a semantic search engine with dual space word embeddings](https://m.mage.ai/building-a-semantic-search-engine-with-dual-space-word-embeddings-f5a596eb6d90)
+- [Billion-scale semantic similarity search with FAISS+SBERT](https://towardsdatascience.com/billion-scale-semantic-similarity-search-with-faiss-sbert-c845614962e2)
 ## Libraries and Tools
 - [fastText](https://fasttext.cc/)
 - [Universal Sentence Encoder](https://tfhub.dev/google/universal-sentence-encoder/4)
@@ -107,6 +110,7 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [vearch](https://github.com/vearch/vearch)
 - [PyNNDescent](https://github.com/lmcinnes/pynndescent)
 - [pgANN](https://github.com/netrasys/pgANN)
+- [opensemanticsearch.org](https://www.opensemanticsearch.org/)
 
 ## Datasets
 - [Semantic Text Similarity Dataset Hub](https://github.com/brmson/dataset-sts)
