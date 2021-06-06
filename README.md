@@ -111,6 +111,7 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [PyNNDescent](https://github.com/lmcinnes/pynndescent)
 - [pgANN](https://github.com/netrasys/pgANN)
 - [opensemanticsearch.org](https://www.opensemanticsearch.org/)
+- [GPT3 Semantic Search ](https://gpt3demo.com/category/semantic-search)
 
 ## Datasets
 - [Semantic Text Similarity Dataset Hub](https://github.com/brmson/dataset-sts)
