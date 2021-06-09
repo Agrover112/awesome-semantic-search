@@ -11,10 +11,6 @@ Following repository aims to serve a meta-repository for [Semantic Search](https
 
 Semantic Search isn't limited to text! It can be done with images, speech, etc. So there are numerous different use-cases and applications of semantic search.
 
-## Contributions / Milestones
-
-Have a look at the [project board](https://github.com/Agrover112/awesome-semantic-search/projects/1) for the task list
-
 ## Contents
 
 - [Papers](#papers)
@@ -121,3 +117,6 @@ AS DISCRIMINATORS RATHER THAN GENERATORS](https://openreview.net/pdf?id=r1xMH1Bt
 ## Datasets
 - [Semantic Text Similarity Dataset Hub](https://github.com/brmson/dataset-sts)
 
+## Contributions / Milestones
+
+Have a look at the [project board](https://github.com/Agrover112/awesome-semantic-search/projects/1) for the task list
