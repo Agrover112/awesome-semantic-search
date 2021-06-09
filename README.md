@@ -4,7 +4,7 @@
 
 <img src ="logo.svg" />
 
-**Refer alternative languages**
+Refer alternative languages
 
 Logo made by [@createdbytango](https://instagram.com/createdbytango). 
 
