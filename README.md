@@ -61,7 +61,7 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [Document Expansion by Query Prediction](https://arxiv.org/abs/1904.08375) 📄
 - [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/pdf/1908.10084.pdf) 📄
 - [Multi-Stage Document Ranking with BERT](https://arxiv.org/abs/1910.14424) 📄
-- [Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://arxiv.org/abs/1906.00300]
+- [Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://arxiv.org/abs/1906.00300)
 - [End-to-End Open-Domain Question Answering with BERTserini](https://www.aclweb.org/anthology/N19-4013/)
 
 ### 2020
