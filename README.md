@@ -4,7 +4,6 @@
 
 <img src ="logo.svg" />
 
-Refer alternative languages
 
 Logo made by [@createdbytango](https://instagram.com/createdbytango). 
 
@@ -27,7 +26,6 @@ Have a look at the [project board](https://github.com/Agrover112/awesome-semanti
     - [2019](#2019)
     - [2020](#2020)
     - [2021](#2021)
-    - [?2021/2020?](#20212022)
 - [Articles](#articles)
 - [Libraries and Tools](#libraries-and-tools)
 - [Datasets](#datasets)
