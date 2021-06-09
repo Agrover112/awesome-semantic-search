@@ -71,7 +71,8 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [DeText: A deep NLP framework for intelligent text understanding](https://engineering.linkedin.com/blog/2020/open-sourcing-detext) 📄
 - [Making Monolingual Sentence Embeddings Multilingual using Knowledge Distillation](https://arxiv.org/pdf/2004.09813.pdf) 📄
 - [Pretrained Transformers for Text Ranking: BERT and Beyond](https://arxiv.org/abs/2010.06467) 📄
-
+- [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/abs/2002.08909)
+- 
 ### 2021
 - [Augmented SBERT](https://arxiv.org/pdf/2010.08240.pdf) 📄
 - [BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models](https://arxiv.org/abs/2104.08663) 📄
@@ -103,6 +104,7 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [natural-language-youtube-search](https://github.com/haltakov/natural-language-youtube-search)
 - [same.energy](https://www.same.energy/about)
 - [scaNN](https://github.com/google-research/google-research/tree/master/scann)
+- [REALM](https://github.com/google-research/language/tree/master/language/realm)
 - [annoy](https://github.com/spotify/annoy)
 - [faiss](https://github.com/facebookresearch/faiss)
 - [DPR](https://github.com/facebookresearch/DPR)
