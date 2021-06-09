@@ -13,6 +13,7 @@ Following these guidelines helps to communicate that you respect the time of the
 - Discuss the changes you wish to make by creating an [issue](https://github.com/Agrover112/awesome-semantic-search/issues/new) or comment on an [existing issue](https://github.com/Agrover112/awesome-semantic-search/issues).
 -  Description should start with a capital letter and be ended with proper punctuation.
 - Once you have been assigned the issue by the maintainer, you can go ahead to fork the repo, clone and make changes to fix the issue. 
+- Please follow [**conventional commits**](https://www.conventionalcommits.org/en/v1.0.0-beta.2/)
 
 ## Making your Pull Request
 
