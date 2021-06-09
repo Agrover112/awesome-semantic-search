@@ -15,7 +15,7 @@ Semantic Search isn't limited to text! It can be done with images, speech, etc. 
 
 Have a look at the [project board](https://github.com/Agrover112/awesome-semantic-search/projects/1) for the task list
 
-## Table Of Contents
+## Contents
 
 - [Papers](#papers)
     - [2014](#2014)
