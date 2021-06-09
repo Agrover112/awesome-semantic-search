@@ -62,6 +62,7 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/pdf/1908.10084.pdf) 📄
 - [Multi-Stage Document Ranking with BERT](https://arxiv.org/abs/1910.14424) 📄
 - [Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://arxiv.org/abs/1906.00300]
+- [End-to-End Open-Domain Question Answering with BERTserini](https://www.aclweb.org/anthology/N19-4013/)
 
 ### 2020
 - [Rapidly Deploying a Neural Search Engine for the COVID-19 Open Research Dataset: Preliminary Thoughts and Lessons Learned](https://arxiv.org/abs/2004.05125) 📄
@@ -100,6 +101,7 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [BEIR :Benchmarking IR](https://github.com/UKPLab/beir)
 - [Which Frame?](http://whichframe.com/)
 - [PySerini](https://github.com/castorini/pyserini)
+- [BERTSerini](https://github.com/rsvp-ai/bertserini)
 - [milvus](https://www.milvus.io/)
 - [weaviate](https://github.com/semi-technologies/weaviate)
 - [natural-language-youtube-search](https://github.com/haltakov/natural-language-youtube-search)
