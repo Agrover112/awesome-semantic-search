@@ -84,7 +84,7 @@ AS DISCRIMINATORS RATHER THAN GENERATORS](https://openreview.net/pdf?id=r1xMH1Bt
 ## Articles
 
 - [Tackling Semantic Search](https://adityamalte.substack.com/p/tackle-semantic-search/)
-- [ Semantic search in Azure Congnitive Search](https://docs.microsoft.com/en-us/azure/search/semantic-search-overview)
+- [Semantic search in Azure Congnitive Search](https://docs.microsoft.com/en-us/azure/search/semantic-search-overview)
 - [How we used semantic search to make our search 10x smarter](https://zilliz.com/blog/How-we-used-semantic-search-to-make-our-search-10-x-smarter)
 - [Building a semantic search engine with dual space word embeddings](https://m.mage.ai/building-a-semantic-search-engine-with-dual-space-word-embeddings-f5a596eb6d90)
 - [Billion-scale semantic similarity search with FAISS+SBERT](https://towardsdatascience.com/billion-scale-semantic-similarity-search-with-faiss-sbert-c845614962e2)
@@ -117,7 +117,7 @@ AS DISCRIMINATORS RATHER THAN GENERATORS](https://openreview.net/pdf?id=r1xMH1Bt
 - [PyNNDescent](https://github.com/lmcinnes/pynndescent)
 - [pgANN](https://github.com/netrasys/pgANN)
 - [opensemanticsearch.org](https://www.opensemanticsearch.org/)
-- [GPT3 Semantic Search ](https://gpt3demo.com/category/semantic-search)
+- [GPT3 Semantic Search](https://gpt3demo.com/category/semantic-search)
 ## Datasets
 - [Semantic Text Similarity Dataset Hub](https://github.com/brmson/dataset-sts)
 
