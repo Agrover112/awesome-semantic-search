@@ -74,7 +74,8 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [Making Monolingual Sentence Embeddings Multilingual using Knowledge Distillation](https://arxiv.org/pdf/2004.09813.pdf) 📄
 - [Pretrained Transformers for Text Ranking: BERT and Beyond](https://arxiv.org/abs/2010.06467) 📄
 - [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/abs/2002.08909)
-- 
+- [ELECTRA: PRE-TRAINING TEXT ENCODERS
+AS DISCRIMINATORS RATHER THAN GENERATORS](https://openreview.net/pdf?id=r1xMH1BtvB)📄
 ### 2021
 - [Augmented SBERT](https://arxiv.org/pdf/2010.08240.pdf) 📄
 - [BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models](https://arxiv.org/abs/2104.08663) 📄
@@ -93,6 +94,7 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [fastText](https://fasttext.cc/)
 - [Universal Sentence Encoder](https://tfhub.dev/google/universal-sentence-encoder/4)
 - [SBERT](https://www.sbert.net/)
+- [ELECTRA](https://github.com/google-research/electra)
 - [LaBSE](https://tfhub.dev/google/LaBSE/2)
 - [LASER](https://github.com/facebookresearch/LASER)
 - [Haystack](https://github.com/deepset-ai/haystack/)
@@ -118,7 +120,6 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [pgANN](https://github.com/netrasys/pgANN)
 - [opensemanticsearch.org](https://www.opensemanticsearch.org/)
 - [GPT3 Semantic Search ](https://gpt3demo.com/category/semantic-search)
-
 ## Datasets
 - [Semantic Text Similarity Dataset Hub](https://github.com/brmson/dataset-sts)
 
