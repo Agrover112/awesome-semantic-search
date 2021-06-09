@@ -25,7 +25,7 @@ Semantic Search isn't limited to text! It can be done with images, speech, etc. 
 - [Articles](#articles)
 - [Libraries and Tools](#libraries-and-tools)
 - [Datasets](#datasets)
-- [Contributions / Milestones](#contributions/milestones)
+- [Milestones](#milestones)
 
 ## Papers
 ### 2014 
@@ -118,6 +118,6 @@ AS DISCRIMINATORS RATHER THAN GENERATORS](https://openreview.net/pdf?id=r1xMH1Bt
 ## Datasets
 - [Semantic Text Similarity Dataset Hub](https://github.com/brmson/dataset-sts)
 
-## Contributions/Milestones
+## Milestones
 
-Have a look at the [project board](https://github.com/Agrover112/awesome-semantic-search/projects/1) for the task list
+Have a look at the [project board](https://github.com/Agrover112/awesome-semantic-search/projects/1) for the task list to contribute to any of the open issues.
