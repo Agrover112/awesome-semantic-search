@@ -99,6 +99,7 @@ AS DISCRIMINATORS RATHER THAN GENERATORS](https://openreview.net/pdf?id=r1xMH1Bt
 - [Which Frame?](http://whichframe.com/)
 - [PySerini](https://github.com/castorini/pyserini)
 - [BERTSerini](https://github.com/rsvp-ai/bertserini)
+- [BERTSimilarity](https://github.com/Brokenwind/BertSimilarity)
 - [milvus](https://www.milvus.io/)
 - [weaviate](https://github.com/semi-technologies/weaviate)
 - [natural-language-youtube-search](https://github.com/haltakov/natural-language-youtube-search)
