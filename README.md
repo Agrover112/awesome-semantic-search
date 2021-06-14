@@ -77,6 +77,7 @@ AS DISCRIMINATORS RATHER THAN GENERATORS](https://openreview.net/pdf?id=r1xMH1Bt
 - [Compatibility-aware Heterogeneous Visual Search](https://arxiv.org/abs/2105.06047) 📷
 - [Learning Personal Style from Few Examples](https://chuanenlin.com/personalstyle)📷
 - [TSDAE: Using Transformer-based Sequential Denoising Auto-Encoder for Unsupervised Sentence Embedding Learning](https://arxiv.org/abs/2104.06979)📄
+- [A Survey of Transformers](https://arxiv.org/abs/2106.04554)📄📷
 
 ## Articles
 
@@ -85,6 +86,7 @@ AS DISCRIMINATORS RATHER THAN GENERATORS](https://openreview.net/pdf?id=r1xMH1Bt
 - [How we used semantic search to make our search 10x smarter](https://zilliz.com/blog/How-we-used-semantic-search-to-make-our-search-10-x-smarter)
 - [Building a semantic search engine with dual space word embeddings](https://m.mage.ai/building-a-semantic-search-engine-with-dual-space-word-embeddings-f5a596eb6d90)
 - [Billion-scale semantic similarity search with FAISS+SBERT](https://towardsdatascience.com/billion-scale-semantic-similarity-search-with-faiss-sbert-c845614962e2)
+- [Some observations about similarity search thresholds](https://greglandrum.github.io/rdkit-blog/similarity/reference/2021/05/26/similarity-threshold-observations1.html)
 ## Libraries and Tools
 - [fastText](https://fasttext.cc/)
 - [Universal Sentence Encoder](https://tfhub.dev/google/universal-sentence-encoder/4)
@@ -95,7 +97,8 @@ AS DISCRIMINATORS RATHER THAN GENERATORS](https://openreview.net/pdf?id=r1xMH1Bt
 - [Haystack](https://github.com/deepset-ai/haystack/)
 - [Jina.AI](https://jina.ai/)
 - [SentEval Toolkit](https://github.com/facebookresearch/SentEval?utm_source=catalyzex.com)
-- [BEIR :Benchmarking IR](https://github.com/UKPLab/beir)
+- [BEIR :Benchmarking IR](https://github.com/UKPLab/beir)\
+- [matchzoo-py](https://github.com/NTMC-Community/MatchZoo-py)
 - [Which Frame?](http://whichframe.com/)
 - [PySerini](https://github.com/castorini/pyserini)
 - [BERTSerini](https://github.com/rsvp-ai/bertserini)
@@ -116,6 +119,7 @@ AS DISCRIMINATORS RATHER THAN GENERATORS](https://openreview.net/pdf?id=r1xMH1Bt
 - [pgANN](https://github.com/netrasys/pgANN)
 - [opensemanticsearch.org](https://www.opensemanticsearch.org/)
 - [GPT3 Semantic Search](https://gpt3demo.com/category/semantic-search)
+- [searchy](https://github.com/lubianat/searchy)
 ## Datasets
 - [Semantic Text Similarity Dataset Hub](https://github.com/brmson/dataset-sts)
 
