@@ -97,7 +97,7 @@ AS DISCRIMINATORS RATHER THAN GENERATORS](https://openreview.net/pdf?id=r1xMH1Bt
 - [Haystack](https://github.com/deepset-ai/haystack/)
 - [Jina.AI](https://jina.ai/)
 - [SentEval Toolkit](https://github.com/facebookresearch/SentEval?utm_source=catalyzex.com)
-- [BEIR :Benchmarking IR](https://github.com/UKPLab/beir)\
+- [BEIR :Benchmarking IR](https://github.com/UKPLab/beir)
 - [matchzoo-py](https://github.com/NTMC-Community/MatchZoo-py)
 - [Which Frame?](http://whichframe.com/)
 - [PySerini](https://github.com/castorini/pyserini)
