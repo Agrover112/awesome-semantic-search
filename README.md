@@ -122,6 +122,7 @@ AS DISCRIMINATORS RATHER THAN GENERATORS](https://openreview.net/pdf?id=r1xMH1Bt
 - [searchy](https://github.com/lubianat/searchy)
 ## Datasets
 - [Semantic Text Similarity Dataset Hub](https://github.com/brmson/dataset-sts)
+- [Facebook AI Image Similarity Challenge](https://www.drivendata.org/competitions/79/competition-image-similarity-1-dev/?fbclid=IwAR31vRV0EdxRdrxtPy12neZtBJQ0H9qdLHm8Wl2DjHY09PtQdn1nEEIJVUo)
 
 ## Milestones
 
