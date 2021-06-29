@@ -99,6 +99,7 @@ AS DISCRIMINATORS RATHER THAN GENERATORS](https://openreview.net/pdf?id=r1xMH1Bt
 - [SentEval Toolkit](https://github.com/facebookresearch/SentEval?utm_source=catalyzex.com)
 - [BEIR :Benchmarking IR](https://github.com/UKPLab/beir)
 - [matchzoo-py](https://github.com/NTMC-Community/MatchZoo-py)
+- [deep_text_matching](https://github.com/wangle1218/deep_text_matching)
 - [Which Frame?](http://whichframe.com/)
 - [PySerini](https://github.com/castorini/pyserini)
 - [BERTSerini](https://github.com/rsvp-ai/bertserini)
