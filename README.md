@@ -70,9 +70,8 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [Pretrained Transformers for Text Ranking: BERT and Beyond](https://arxiv.org/abs/2010.06467) 📄
 - [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/abs/2002.08909)
 - [ELECTRA: PRE-TRAINING TEXT ENCODERS AS DISCRIMINATORS RATHER THAN GENERATORS](https://openreview.net/pdf?id=r1xMH1BtvB)📄
-- [Improving Deep Learning For Airbnb Search
-](https://arxiv.org/pdf/2002.05515.pdf)
--[Managing Diversity in Airbnb Search](https://arxiv.org/pdf/2004.02621.pdf)📄
+- [Improving Deep Learning For Airbnb Search](https://arxiv.org/pdf/2002.05515.pdf)
+- [Managing Diversity in Airbnb Search](https://arxiv.org/pdf/2004.02621.pdf)📄
 ### 2021
 - [Augmented SBERT](https://arxiv.org/pdf/2010.08240.pdf) 📄
 - [BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models](https://arxiv.org/abs/2104.08663) 📄
