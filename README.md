@@ -113,6 +113,7 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [REALM](https://github.com/google-research/language/tree/master/language/realm)
 - [annoy](https://github.com/spotify/annoy)
 - [faiss](https://github.com/facebookresearch/faiss)
+- [autofaiss](https://github.com/criteo/autofaiss)
 - [DPR](https://github.com/facebookresearch/DPR)
 - [rank_BM25](https://github.com/dorianbrown/rank_bm25)
 - [nearPy](http://pixelogik.github.io/NearPy/)
