@@ -79,6 +79,7 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [Learning Personal Style from Few Examples](https://chuanenlin.com/personalstyle)📷
 - [TSDAE: Using Transformer-based Sequential Denoising Auto-Encoder for Unsupervised Sentence Embedding Learning](https://arxiv.org/abs/2104.06979)📄
 - [A Survey of Transformers](https://arxiv.org/abs/2106.04554)📄📷
+- [High Quality Related Search Query Suggestions using Deep Reinforcement Learning](https://arxiv.org/abs/2108.04452v1)
 
 ## Articles
 
