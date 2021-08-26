@@ -81,7 +81,8 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [A Survey of Transformers](https://arxiv.org/abs/2106.04554)📄📷
 - [High Quality Related Search Query Suggestions using Deep Reinforcement Learning](https://arxiv.org/abs/2108.04452v1)
 - [Embedding-based Product Retrieval in Taobao Search](https://arxiv.org/pdf/2106.09297.pdf)📄📷
-
+- [TRAIN SHORT, TEST LONG: ATTENTION WITH LINEAR BIASES ENABLES INPUT LENGTH EXTRAPOLATION](https://ofir.io/train_short_test_long.pdf)📄
+- [TPRM: A Topic-based Personalized Ranking Model for Web Search](https://arxiv.org/abs/2108.06014)📄
 ## Articles
 
 - [Tackling Semantic Search](https://adityamalte.substack.com/p/tackle-semantic-search/)
