@@ -17,3 +17,4 @@ jobs:
         timeout: 10
         retry_count: 3
         exclude_patterns: https://github.com/Agrover112/awesome-semantic-search/issues
+        force_pass: true
