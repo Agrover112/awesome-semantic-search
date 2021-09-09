@@ -73,6 +73,7 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [Improving Deep Learning For Airbnb Search](https://arxiv.org/pdf/2002.05515)
 - [Managing Diversity in Airbnb Search](https://arxiv.org/abs/2004.02621)📄
 ### 2021
+- [Hybrid approach for semantic similarity calculation  between Tamil words](https://www.researchgate.net/publication/350112163_Hybrid_approach_for_semantic_similarity_calculation_between_Tamil_words) 📄
 - [Augmented SBERT](https://arxiv.org/pdf/2010.08240.pdf) 📄
 - [BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models](https://arxiv.org/abs/2104.08663) 📄
 - [Compatibility-aware Heterogeneous Visual Search](https://arxiv.org/abs/2105.06047) 📷
@@ -84,6 +85,9 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [TRAIN SHORT, TEST LONG: ATTENTION WITH LINEAR BIASES ENABLES INPUT LENGTH EXTRAPOLATION](https://ofir.io/train_short_test_long.pdf)📄
 - [TPRM: A Topic-based Personalized Ranking Model for Web Search](https://arxiv.org/abs/2108.06014)📄
 - [mMARCO: A Multilingual Version of MS MARCO Passage Ranking Dataset](https://arxiv.org/abs/2108.13897)📄
+- [Database Reasoning Over Text](https://aclanthology.org/2021.acl-long.241.pdf)📄
+- [How Does Adversarial Fine-Tuning Benefit BERT?](https://arxiv.org/abs/2108.13602))📄
+- [Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation](https://arxiv.org/abs/2108.12409)📄
 ## Articles
 
 - [Tackling Semantic Search](https://adityamalte.substack.com/p/tackle-semantic-search/)
@@ -127,6 +131,9 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [opensemanticsearch.org](https://www.opensemanticsearch.org/)
 - [GPT3 Semantic Search](https://gpt3demo.com/category/semantic-search)
 - [searchy](https://github.com/lubianat/searchy)
+- [vectorai](https://github.com/vector-ai/vectorai)
+- [AquilaDb](https://github.com/Aquila-Network/AquilaDB)
+- [redis HNSW](https://github.com/zhao-lang/redis_hnsw)
 ## Datasets
 - [Semantic Text Similarity Dataset Hub](https://github.com/brmson/dataset-sts)
 - [Facebook AI Image Similarity Challenge](https://www.drivendata.org/competitions/79/competition-image-similarity-1-dev/?fbclid=IwAR31vRV0EdxRdrxtPy12neZtBJQ0H9qdLHm8Wl2DjHY09PtQdn1nEEIJVUo)
