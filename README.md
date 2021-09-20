@@ -128,6 +128,7 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [vearch](https://github.com/vearch/vearch)
 - [PyNNDescent](https://github.com/lmcinnes/pynndescent)
 - [pgANN](https://github.com/netrasys/pgANN)
+- [Tensorflow Similarity](https://github.com/tensorflow/similarity)
 - [opensemanticsearch.org](https://www.opensemanticsearch.org/)
 - [GPT3 Semantic Search](https://gpt3demo.com/category/semantic-search)
 - [searchy](https://github.com/lubianat/searchy)
