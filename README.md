@@ -88,6 +88,7 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [Database Reasoning Over Text](https://aclanthology.org/2021.acl-long.241.pdf)📄
 - [How Does Adversarial Fine-Tuning Benefit BERT?](https://arxiv.org/abs/2108.13602))📄
 - [Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation](https://arxiv.org/abs/2108.12409)📄
+- [Primer: Searching for Efficient Transformers for Language Modeling](https://arxiv.org/abs/2109.08668)📄
 ## Articles
 
 - [Tackling Semantic Search](https://adityamalte.substack.com/p/tackle-semantic-search/)
