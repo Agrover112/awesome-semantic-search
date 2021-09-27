@@ -90,6 +90,8 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [How Does Adversarial Fine-Tuning Benefit BERT?](https://arxiv.org/abs/2108.13602))📄
 - [Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation](https://arxiv.org/abs/2108.12409)📄
 - [Primer: Searching for Efficient Transformers for Language Modeling](https://arxiv.org/abs/2109.08668)📄
+- [How Familiar Does That Sound? Cross-Lingual Representational
+Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.10179.pdf)🔊
 ## Articles
 
 - [Tackling Semantic Search](https://adityamalte.substack.com/p/tackle-semantic-search/)
@@ -98,6 +100,7 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [Building a semantic search engine with dual space word embeddings](https://m.mage.ai/building-a-semantic-search-engine-with-dual-space-word-embeddings-f5a596eb6d90)
 - [Billion-scale semantic similarity search with FAISS+SBERT](https://towardsdatascience.com/billion-scale-semantic-similarity-search-with-faiss-sbert-c845614962e2)
 - [Some observations about similarity search thresholds](https://greglandrum.github.io/rdkit-blog/similarity/reference/2021/05/26/similarity-threshold-observations1.html)
+- [Near Duplicate Image Search using Locality Sensitive Hashing](https://keras.io/examples/vision/near_dup_search/)
 ## Libraries and Tools
 - [fastText](https://fasttext.cc/)
 - [Universal Sentence Encoder](https://tfhub.dev/google/universal-sentence-encoder/4)
