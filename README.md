@@ -137,6 +137,8 @@ Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.1017
 - [opensemanticsearch.org](https://www.opensemanticsearch.org/)
 - [GPT3 Semantic Search](https://gpt3demo.com/category/semantic-search)
 - [searchy](https://github.com/lubianat/searchy)
+- [txtai](https://github.com/neuml/txtai)
+- [HyperTag](https://github.com/Ravn-Tech/HyperTag)
 - [vectorai](https://github.com/vector-ai/vectorai)
 - [AquilaDb](https://github.com/Aquila-Network/AquilaDB)
 - [redis HNSW](https://github.com/zhao-lang/redis_hnsw)
