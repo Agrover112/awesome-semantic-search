@@ -1,0 +1,4 @@
+# Add labels based on what README file language is being contributed to
+English: README.md
+Hindi: README_Hindi.md
+Spanish: README_Spanish.md
