@@ -59,6 +59,7 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://arxiv.org/abs/1906.00300)
 - [End-to-End Open-Domain Question Answering with BERTserini](https://www.aclweb.org/anthology/N19-4013/)
 - [BioBERT: a pre-trained biomedical language representation model for biomedical text mining](https://arxiv.org/abs/1901.08746)📄
+- [Analyzing and Improving Representations with the Soft Nearest Neighbor Loss](https://arxiv.org/pdf/1902.01889.pdf)📷
 
 ### 2020
 - [Rapidly Deploying a Neural Search Engine for the COVID-19 Open Research Dataset: Preliminary Thoughts and Lessons Learned](https://arxiv.org/abs/2004.05125) 📄
