@@ -124,7 +124,7 @@ Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.1017
 - [scaNN](https://github.com/google-research/google-research/tree/master/scann)
 - [REALM](https://github.com/google-research/language/tree/master/language/realm)
 - [annoy](https://github.com/spotify/annoy)
-- [faiss](https://github.com/facebookresearch/faiss)
+- [redis HNSW](https://github.com/zhao-lang/redis_hnsw)
 - [autofaiss](https://github.com/criteo/autofaiss)
 - [DPR](https://github.com/facebookresearch/DPR)
 - [rank_BM25](https://github.com/dorianbrown/rank_bm25)
@@ -139,8 +139,8 @@ Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.1017
 - [txtai](https://github.com/neuml/txtai)
 - [HyperTag](https://github.com/Ravn-Tech/HyperTag)
 - [vectorai](https://github.com/vector-ai/vectorai)
+- [embeddinghub](https://github.com/featureform/embeddinghub)
 - [AquilaDb](https://github.com/Aquila-Network/AquilaDB)
-- [redis HNSW](https://github.com/zhao-lang/redis_hnsw)
 ## Datasets
 - [Semantic Text Similarity Dataset Hub](https://github.com/brmson/dataset-sts)
 - [Facebook AI Image Similarity Challenge](https://www.drivendata.org/competitions/79/competition-image-similarity-1-dev/?fbclid=IwAR31vRV0EdxRdrxtPy12neZtBJQ0H9qdLHm8Wl2DjHY09PtQdn1nEEIJVUo)
