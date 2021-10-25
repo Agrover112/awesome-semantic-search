@@ -74,6 +74,7 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [ELECTRA: PRE-TRAINING TEXT ENCODERS AS DISCRIMINATORS RATHER THAN GENERATORS](https://openreview.net/pdf?id=r1xMH1BtvB)📄
 - [Improving Deep Learning For Airbnb Search](https://arxiv.org/pdf/2002.05515)
 - [Managing Diversity in Airbnb Search](https://arxiv.org/abs/2004.02621)📄
+- [Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval](https://arxiv.org/abs/2007.00808v1)📄
 ### 2021
 - [Hybrid approach for semantic similarity calculation  between Tamil words](https://www.researchgate.net/publication/350112163_Hybrid_approach_for_semantic_similarity_calculation_between_Tamil_words) 📄
 - [Augmented SBERT](https://arxiv.org/pdf/2010.08240.pdf) 📄
@@ -92,8 +93,9 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [Primer: Searching for Efficient Transformers for Language Modeling](https://arxiv.org/abs/2109.08668)📄
 - [How Familiar Does That Sound? Cross-Lingual Representational
 Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.10179.pdf)🔊
-## Articles
+- [SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://arxiv.org/abs/2104.08821#)📄
 
+## Articles
 - [Tackling Semantic Search](https://adityamalte.substack.com/p/tackle-semantic-search/)
 - [Semantic search in Azure Congnitive Search](https://docs.microsoft.com/en-us/azure/search/semantic-search-overview)
 - [How we used semantic search to make our search 10x smarter](https://zilliz.com/blog/How-we-used-semantic-search-to-make-our-search-10-x-smarter/)
@@ -101,6 +103,8 @@ Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.1017
 - [Billion-scale semantic similarity search with FAISS+SBERT](https://towardsdatascience.com/billion-scale-semantic-similarity-search-with-faiss-sbert-c845614962e2)
 - [Some observations about similarity search thresholds](https://greglandrum.github.io/rdkit-blog/similarity/reference/2021/05/26/similarity-threshold-observations1.html)
 - [Near Duplicate Image Search using Locality Sensitive Hashing](https://keras.io/examples/vision/near_dup_search/)
+- [Free Course on Vector Similarity Search and Faiss]( https://link.medium.com/HtFoFKlKvkb)
+- [Comprehensive Guide To Approximate Nearest Neighbors Algorithms](https://link.medium.com/V62Z8drvEkb)
 ## Libraries and Tools
 - [fastText](https://fasttext.cc/)
 - [Universal Sentence Encoder](https://tfhub.dev/google/universal-sentence-encoder/4)
