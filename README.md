@@ -94,6 +94,7 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [How Familiar Does That Sound? Cross-Lingual Representational
 Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.10179.pdf)🔊
 - [SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://arxiv.org/abs/2104.08821#)📄
+- [Compositional Attention: Disentangling Search and Retrieval](https://arxiv.org/abs/2110.09419)📄📷
 
 ## Articles
 - [Tackling Semantic Search](https://adityamalte.substack.com/p/tackle-semantic-search/)
