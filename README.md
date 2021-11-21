@@ -58,6 +58,7 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [Optimization of Indexing Based on k-Nearest Neighbor Graph for Proximity Search in High-dimensional Data](https://arxiv.org/abs/1810.07355)
 - [Fast Approximate Nearest Neighbor Search With The
 Navigating Spreading-out Graph](http://www.vldb.org/pvldb/vol12/p461-fu.pdf)
+- [The Case for Learned Index Structures](https://dl.acm.org/doi/10.1145/3183713.3196909)
 
 ### 2019
 - [LASER: Language Agnostic Sentence Representations](https://engineering.fb.com/2019/01/22/ai-research/laser-multilingual-sentence-embeddings/) 📄
