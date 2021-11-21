@@ -28,12 +28,17 @@ Semantic Search isn't limited to text! It can be done with images, speech, etc. 
 - [Milestones](#milestones)
 
 ## Papers
+
+### 2010
+- [Priority Range Trees](https://arxiv.org/abs/1009.3527)
+
 ### 2014 
 - [A Latent Semantic Model with Convolutional-Pooling 
 Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cikm2014_cdssm_final.pdf) 📄
 
 ### 2015
 - [Skip-Thought Vectors](https://arxiv.org/pdf/1506.06726.pdf) 📄
+- [Practical and Optimal LSH for Angular Distance](https://proceedings.neurips.cc/paper/2015/hash/2823f4797102ce1a1aec05359cc16dd9-Abstract.html)
 
 ### 2016
 - [Bag of Tricks for Efficient Text Classification](https://arxiv.org/abs/1607.01759) 📄
@@ -41,6 +46,7 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs](https://arxiv.org/abs/1603.09320)
 - [On Approximately Searching for Similar Word Embeddings](https://www.aclweb.org/anthology/P16-1214.pdf) 
 - [Learning Distributed Representations of Sentences from Unlabelled Data](https://arxiv.org/abs/1602.03483)📄
+- [Approximate Nearest Neighbor Search on High Dimensional Data --- Experiments, Analyses, and Improvement](https://arxiv.org/abs/1610.02455)
 
 ### 2017
 - [Supervised Learning of Universal Sentence Representations from Natural Language Inference Data](https://research.fb.com/wp-content/uploads/2017/09/emnlp2017.pdf) 📄
@@ -50,6 +56,8 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [Learning Semantic Textual Similarity from Conversations](https://arxiv.org/pdf/1804.07754.pdf) 📄
 - [Google AI Blog: Advances in Semantic Textual Similarity](https://ai.googleblog.com/2018/05/advances-in-semantic-textual-similarity.html) 📄
 - [Optimization of Indexing Based on k-Nearest Neighbor Graph for Proximity Search in High-dimensional Data](https://arxiv.org/abs/1810.07355)
+- [Fast Approximate Nearest Neighbor Search With The
+Navigating Spreading-out Graph](http://www.vldb.org/pvldb/vol12/p461-fu.pdf)
 
 ### 2019
 - [LASER: Language Agnostic Sentence Representations](https://engineering.fb.com/2019/01/22/ai-research/laser-multilingual-sentence-embeddings/) 📄
@@ -60,6 +68,8 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [End-to-End Open-Domain Question Answering with BERTserini](https://www.aclweb.org/anthology/N19-4013/)
 - [BioBERT: a pre-trained biomedical language representation model for biomedical text mining](https://arxiv.org/abs/1901.08746)📄
 - [Analyzing and Improving Representations with the Soft Nearest Neighbor Loss](https://arxiv.org/pdf/1902.01889.pdf)📷
+- [DiskANN: Fast Accurate Billion-point Nearest
+Neighbor Search on a Single Node](https://proceedings.neurips.cc/paper/2019/file/09853c7fb1d3f8ee67a61b6bf4a7f8e6-Paper.pdf)
 
 ### 2020
 - [Rapidly Deploying a Neural Search Engine for the COVID-19 Open Research Dataset: Preliminary Thoughts and Lessons Learned](https://arxiv.org/abs/2004.05125) 📄
@@ -95,6 +105,7 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.10179.pdf)🔊
 - [SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://arxiv.org/abs/2104.08821#)📄
 - [Compositional Attention: Disentangling Search and Retrieval](https://arxiv.org/abs/2110.09419)📄📷
+- [SPANN: Highly-efficient Billion-scale Approximate Nearest Neighbor Search](https://arxiv.org/abs/2111.08566)
 
 ## Articles
 - [Tackling Semantic Search](https://adityamalte.substack.com/p/tackle-semantic-search/)
@@ -130,6 +141,8 @@ Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.1017
 - [scaNN](https://github.com/google-research/google-research/tree/master/scann)
 - [REALM](https://github.com/google-research/language/tree/master/language/realm)
 - [annoy](https://github.com/spotify/annoy)
+- [nsg](https://github.com/ZJULearning/nsg)
+- [FALCONN](https://github.com/FALCONN-LIB/FALCONN)
 - [redis HNSW](https://github.com/zhao-lang/redis_hnsw)
 - [autofaiss](https://github.com/criteo/autofaiss)
 - [DPR](https://github.com/facebookresearch/DPR)
