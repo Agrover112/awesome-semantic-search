@@ -49,7 +49,7 @@ Structure pour la recherche d'informations](https://www.microsoft.com/en-us/rese
 - [Recherche approximative du voisin le plus proche sur des données de grande dimension --- Expériences, analyses et améliorations](https://arxiv.org/abs/1610.02455)
 
 ### 2017
-- [Supervised Learning of Universal Sentence Representations from Natural Language Inference Data](https://research.fb.com/wp-content/uploads/2017/09/emnlp2017.pdf) 📄
+- [Apprentissage supervisé des représentations de phrases universelles à partir de données d'inférence en langage naturel](https://research.fb.com/wp-content/uploads/2017/09/emnlp2017.pdf) 📄
 
 ### 2018
 - [Encodeur de phrases universel](https://arxiv.org/pdf/1803.11175.pdf) 📄
