@@ -138,6 +138,7 @@ Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.1017
 - [milvus](https://www.milvus.io/)
 - [NeuroNLP++](https://plusplus.neuronlp.fruitflybrain.org/)
 - [weaviate](https://github.com/semi-technologies/weaviate)
+- [semantic-search-through-wikipedia-with-weaviate](https://github.com/semi-technologies/semantic-search-through-wikipedia-with-weaviate)
 - [natural-language-youtube-search](https://github.com/haltakov/natural-language-youtube-search)
 - [same.energy](https://www.same.energy/about)
 - [scaNN](https://github.com/google-research/google-research/tree/master/scann)
