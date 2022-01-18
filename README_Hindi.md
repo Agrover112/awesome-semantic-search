@@ -35,7 +35,7 @@ Contributions / Milestones
     -   [2021](#2021)
     
 -   [लेख](#लेख)
--   [Libraries तथा Tools](#Libraries तथा Tools)
+-   [Libraries तथा Tools](#libraries-तथा-tools)
 -   [डेटासेट](#डेटासेट)
 -   [माइलस्टोन्स](#माइलस्टोन्स)
 
