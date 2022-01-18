@@ -170,6 +170,7 @@ Contributions / Milestones
 - [स्थानीयता संवेदनशील हैशिंग का उपयोग करके डुप्लिकेट छवि खोज के पास](https://keras.io/examples/vision/near_dup_search/)
 - [वेक्टर समानता खोज और फैस पर नि: शुल्क पाठ्यक्रम](https://link.medium.com/HtFoFKlKvkb)
 - [निकटतम पड़ोसियों के एल्गोरिदम के लिए व्यापक गाइड](https://link.medium.com/V62Z8drvEkb)
+
 Libraries तथा Tools
 -------------------
 
