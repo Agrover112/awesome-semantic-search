@@ -34,10 +34,10 @@ Contributions / Milestones
     -   [2020](#2020)
     -   [2021](#2021)
     
--   [लेख](#articles)
--   [Libraries तथा Tools](#libraries-and-tools)
--   [डेटासेट](#datasets)
--   [माइलस्टोन](#milestones)
+-   [लेख](#लेख)
+-   [Libraries तथा Tools](#Libraries तथा Tools)
+-   [डेटासेट](#डेटासेट)
+-   [ममाइलस्टोन्स](#माइलस्टोन्स)
 
 दस्तावेज़
 ---------
@@ -219,7 +219,7 @@ Libraries तथा Tools
 - [WIT: विकिपीडिया-आधारित छवि पाठ डेटासेट](https://github.com/google-research-datasets/wit)
 
 
-Milestones
+माइलस्टोन्स
 -------
 
 - कार्य सूची के लिए [परियोजना बोर्ड](https://github.com/Agrover112/awesome-semantic-search/projects/1) पर एक नज़र डालें ताकि किसी भी खुले मुद्दे में योगदान किया जा सके।
