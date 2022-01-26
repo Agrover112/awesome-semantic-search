@@ -86,6 +86,7 @@ Neighbor Search on a Single Node](https://proceedings.neurips.cc/paper/2019/file
 - [Improving Deep Learning For Airbnb Search](https://arxiv.org/pdf/2002.05515)
 - [Managing Diversity in Airbnb Search](https://arxiv.org/abs/2004.02621)📄
 - [Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval](https://arxiv.org/abs/2007.00808v1)📄
+- [Unsupervised Image Style Embeddings for Retrieval and Recognition Tasks](https://openaccess.thecvf.com/content_WACV_2020/papers/Gairola_Unsupervised_Image_Style_Embeddings_for_Retrieval_and_Recognition_Tasks_WACV_2020_paper.pdf)📷
 ### 2021
 - [Hybrid approach for semantic similarity calculation  between Tamil words](https://www.researchgate.net/publication/350112163_Hybrid_approach_for_semantic_similarity_calculation_between_Tamil_words) 📄
 - [Augmented SBERT](https://arxiv.org/pdf/2010.08240.pdf) 📄
