@@ -88,6 +88,7 @@ Neighbor Search on a Single Node](https://proceedings.neurips.cc/paper/2019/file
 - [Managing Diversity in Airbnb Search](https://arxiv.org/abs/2004.02621)📄
 - [Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval](https://arxiv.org/abs/2007.00808v1)📄
 - [Unsupervised Image Style Embeddings for Retrieval and Recognition Tasks](https://openaccess.thecvf.com/content_WACV_2020/papers/Gairola_Unsupervised_Image_Style_Embeddings_for_Retrieval_and_Recognition_Tasks_WACV_2020_paper.pdf)📷
+- [DeCLUTR: Deep Contrastive Learning for Unsupervised Textual Representations](https://arxiv.org/abs/2006.03659)📄
 ### 2021
 - [Hybrid approach for semantic similarity calculation  between Tamil words](https://www.researchgate.net/publication/350112163_Hybrid_approach_for_semantic_similarity_calculation_between_Tamil_words) 📄
 - [Augmented SBERT](https://arxiv.org/pdf/2010.08240.pdf) 📄
@@ -111,7 +112,7 @@ Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.1017
 - [SPANN: Highly-efficient Billion-scale Approximate Nearest Neighbor Search](https://arxiv.org/abs/2111.08566)
 
 ### 2022
-- [Text and Code Embeddings by Contrastive Pre-Training](https://arxiv.org/abs/2201.10005)
+- [Text and Code Embeddings by Contrastive Pre-Training](https://arxiv.org/abs/2201.10005)📄
 
 ## Articles
 - [Tackling Semantic Search](https://adityamalte.substack.com/p/tackle-semantic-search/)
