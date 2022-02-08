@@ -22,6 +22,7 @@ Semantic Search isn't limited to text! It can be done with images, speech, etc. 
     - [2019](#2019)
     - [2020](#2020)
     - [2021](#2021)
+    - [2022](#2022)
 - [Articles](#articles)
 - [Libraries and Tools](#libraries-and-tools)
 - [Datasets](#datasets)
@@ -108,6 +109,9 @@ Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.1017
 - [SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://arxiv.org/abs/2104.08821#)📄
 - [Compositional Attention: Disentangling Search and Retrieval](https://arxiv.org/abs/2110.09419)📄📷
 - [SPANN: Highly-efficient Billion-scale Approximate Nearest Neighbor Search](https://arxiv.org/abs/2111.08566)
+
+### 2022
+- [Text and Code Embeddings by Contrastive Pre-Training](https://arxiv.org/abs/2201.10005)
 
 ## Articles
 - [Tackling Semantic Search](https://adityamalte.substack.com/p/tackle-semantic-search/)
