@@ -133,6 +133,7 @@ Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.1017
 - [ELECTRA](https://github.com/google-research/electra)
 - [LaBSE](https://tfhub.dev/google/LaBSE/2)
 - [LASER](https://github.com/facebookresearch/LASER)
+- [Relevance AI - Vector Platform From Experimentation To Deployment](https://relevance.ai)
 - [Haystack](https://github.com/deepset-ai/haystack/)
 - [Jina.AI](https://jina.ai/)
 - [pinecone](https://www.pinecone.io/)
