@@ -115,6 +115,8 @@ Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.1017
 
 ### 2022
 - [Text and Code Embeddings by Contrastive Pre-Training](https://arxiv.org/abs/2201.10005)📄
+- [RELIC: Retrieving Evidence for Literary Claims](https://arxiv.org/abs/2203.10053)📄
+- [Trans-Encoder: Unsupervised sentence-pair modelling through self- and mutual-distillations](https://arxiv.org/abs/2109.13059)📄
 
 ## Articles
 - [Tackling Semantic Search](https://adityamalte.substack.com/p/tackle-semantic-search/)
@@ -139,6 +141,7 @@ Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.1017
 - [pinecone](https://www.pinecone.io/)
 - [SentEval Toolkit](https://github.com/facebookresearch/SentEval?utm_source=catalyzex.com)
 - [BEIR :Benchmarking IR](https://github.com/UKPLab/beir)
+- [RELiC: Retrieving Evidence for Literary Claims Dataset](https://relic.cs.umass.edu/)
 - [matchzoo-py](https://github.com/NTMC-Community/MatchZoo-py)
 - [deep_text_matching](https://github.com/wangle1218/deep_text_matching)
 - [Which Frame?](http://whichframe.com/)
