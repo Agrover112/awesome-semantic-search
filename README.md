@@ -53,6 +53,7 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 
 ### 2017
 - [Supervised Learning of Universal Sentence Representations from Natural Language Inference Data](https://research.fb.com/wp-content/uploads/2017/09/emnlp2017.pdf) 📄
+- [Semantic Textual Similarity For Hindi](https://www.semanticscholar.org/paper/Semantic-Textual-Similarity-For-Hindi-Mujadia-Mamidi/372f615ce36d7543512b8e40d6de51d17f316e0b)📄
 
 ### 2018
 - [Universal Sentence Encoder](https://arxiv.org/pdf/1803.11175.pdf) 📄
