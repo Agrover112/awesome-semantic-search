@@ -7,6 +7,8 @@
 
 Logo made by [@createdbytango](https://instagram.com/createdbytango). 
 
+**Looking for Maintainers**
+
 Following repository aims to serve a meta-repository for [Semantic Search](https://en.wikipedia.org/wiki/Semantic_search) and [Semantic Similarity](http://nlpprogress.com/english/semantic_textual_similarity.html) related tasks.
 
 Semantic Search isn't limited to text! It can be done with images, speech, etc.There are numerous different use-cases and applications of semantic search.
