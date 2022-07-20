@@ -10,7 +10,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: URLs-checker
-      uses: urlstechie/urlchecker-action@0.2.3
+      uses: urlstechie/urlchecker-action@0.0.27
       with:
         file_types: .md
         print_all: false
