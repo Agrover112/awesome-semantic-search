@@ -121,6 +121,7 @@ Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.1017
 - [RELIC: Retrieving Evidence for Literary Claims](https://arxiv.org/abs/2203.10053)📄
 - [Trans-Encoder: Unsupervised sentence-pair modelling through self- and mutual-distillations](https://arxiv.org/abs/2109.13059)📄
 - [SAMU-XLSR: Semantically-Aligned Multimodal Utterance-level Cross-Lingual Speech Representation](https://arxiv.org/abs/2205.08180)🔊
+- [Out-of-distribution Detection with Deep Nearest Neighbors](https://arxiv.org/abs/2204.06507)
 
 ## Articles
 - [Tackling Semantic Search](https://adityamalte.substack.com/p/tackle-semantic-search/)
