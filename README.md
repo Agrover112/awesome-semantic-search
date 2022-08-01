@@ -115,6 +115,7 @@ Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.1017
 - [SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://arxiv.org/abs/2104.08821#)📄
 - [Compositional Attention: Disentangling Search and Retrieval](https://arxiv.org/abs/2110.09419)📄📷
 - [SPANN: Highly-efficient Billion-scale Approximate Nearest Neighbor Search](https://arxiv.org/abs/2111.08566)
+- [GPL: Generative Pseudo Labeling for Unsupervised Domain Adaptation of Dense Retrieval](https://arxiv.org/abs/2112.07577) 📄
 
 ### 2022
 - [Text and Code Embeddings by Contrastive Pre-Training](https://arxiv.org/abs/2201.10005)📄
