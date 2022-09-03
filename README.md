@@ -116,6 +116,7 @@ Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.1017
 - [Compositional Attention: Disentangling Search and Retrieval](https://arxiv.org/abs/2110.09419)📄📷
 - [SPANN: Highly-efficient Billion-scale Approximate Nearest Neighbor Search](https://arxiv.org/abs/2111.08566)
 - [GPL: Generative Pseudo Labeling for Unsupervised Domain Adaptation of Dense Retrieval](https://arxiv.org/abs/2112.07577) 📄
+- [Generative Search Engines: Initial Experiments](https://computationalcreativity.net/iccc21/wp-content/uploads/2021/09/ICCC_2021_paper_50.pdf) 📷
 
 ### 2022
 - [Text and Code Embeddings by Contrastive Pre-Training](https://arxiv.org/abs/2201.10005)📄
