@@ -102,6 +102,7 @@ Neighbor Search on a Single Node](https://proceedings.neurips.cc/paper/2019/file
 - [Learning Personal Style from Few Examples](https://chuanenlin.com/personalstyle)📷
 - [TSDAE: Using Transformer-based Sequential Denoising Auto-Encoder for Unsupervised Sentence Embedding Learning](https://arxiv.org/abs/2104.06979)📄
 - [A Survey of Transformers](https://arxiv.org/abs/2106.04554)📄📷
+- [SPLADE: Sparse Lexical and Expansion Model for First Stage Ranking](https://dl.acm.org/doi/10.1145/3404835.3463098)📄
 - [High Quality Related Search Query Suggestions using Deep Reinforcement Learning](https://arxiv.org/abs/2108.04452v1)
 - [Embedding-based Product Retrieval in Taobao Search](https://arxiv.org/pdf/2106.09297.pdf)📄📷
 - [TPRM: A Topic-based Personalized Ranking Model for Web Search](https://arxiv.org/abs/2108.06014)📄
@@ -123,7 +124,9 @@ Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.1017
 - [RELIC: Retrieving Evidence for Literary Claims](https://arxiv.org/abs/2203.10053)📄
 - [Trans-Encoder: Unsupervised sentence-pair modelling through self- and mutual-distillations](https://arxiv.org/abs/2109.13059)📄
 - [SAMU-XLSR: Semantically-Aligned Multimodal Utterance-level Cross-Lingual Speech Representation](https://arxiv.org/abs/2205.08180)🔊
+- [An Analysis of Fusion Functions for Hybrid Retrieval](https://arxiv.org/abs/2210.11934)📄
 - [Out-of-distribution Detection with Deep Nearest Neighbors](https://arxiv.org/abs/2204.06507)
+- [ESB: A Benchmark For Multi-Domain End-to-End Speech Recognition](https://arxiv.org/abs/2210.13352)🔊
 
 ## Articles
 - [Tackling Semantic Search](https://adityamalte.substack.com/p/tackle-semantic-search/)
@@ -135,6 +138,7 @@ Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.1017
 - [Near Duplicate Image Search using Locality Sensitive Hashing](https://keras.io/examples/vision/near_dup_search/)
 - [Free Course on Vector Similarity Search and Faiss]( https://link.medium.com/HtFoFKlKvkb)
 - [Comprehensive Guide To Approximate Nearest Neighbors Algorithms](https://link.medium.com/V62Z8drvEkb)
+- [Introducing the hybrid index to enable keyword-aware semantic search](https://www.pinecone.io/learn/hybrid-search/?utm_medium=email&_hsmi=0&_hsenc=p2ANqtz--zLu9hiyh-y_XTa7FCEpi8JESJKmif5dhpYtAxTWka8PIttaTOGE21LMZlg9EOZyPYpCm6GDvYy57tlGRwH6TjgLCsJg&utm_content=231741722&utm_source=hs_email)
 ## Libraries and Tools
 - [fastText](https://fasttext.cc/)
 - [Universal Sentence Encoder](https://tfhub.dev/google/universal-sentence-encoder/4)
