@@ -180,6 +180,7 @@ Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.1017
 - [rank_BM25](https://github.com/dorianbrown/rank_bm25)
 - [nearPy](http://pixelogik.github.io/NearPy/)
 - [vearch](https://github.com/vearch/vearch)
+- [vespa](https://github.com/vespa-engine/vespa)
 - [PyNNDescent](https://github.com/lmcinnes/pynndescent)
 - [pgANN](https://github.com/netrasys/pgANN)
 - [Tensorflow Similarity](https://github.com/tensorflow/similarity)
