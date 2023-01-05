@@ -157,6 +157,7 @@ Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.1017
 - [matchzoo-py](https://github.com/NTMC-Community/MatchZoo-py)
 - [deep_text_matching](https://github.com/wangle1218/deep_text_matching)
 - [Which Frame?](http://whichframe.com/)
+- [lexica.art](https://lexica.art/)
 - [emoji semantic search](https://github.com/lilianweng/emoji-semantic-search)
 - [PySerini](https://github.com/castorini/pyserini)
 - [BERTSerini](https://github.com/rsvp-ai/bertserini)
