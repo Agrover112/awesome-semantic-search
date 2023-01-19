@@ -61,7 +61,8 @@ Structure for Information Retrieval](https://www.microsoft.com/en-us/research/wp
 - [Universal Sentence Encoder](https://arxiv.org/pdf/1803.11175.pdf) 📄
 - [Learning Semantic Textual Similarity from Conversations](https://arxiv.org/pdf/1804.07754.pdf) 📄
 - [Google AI Blog: Advances in Semantic Textual Similarity](https://ai.googleblog.com/2018/05/advances-in-semantic-textual-similarity.html) 📄
-- [Optimization of Indexing Based on k-Nearest Neighbor Graph for Proximity Search in High-dimensional Data](https://arxiv.org/abs/1810.07355)
+- [Speech2Vec: A Sequence-to-Sequence Framework for Learning Word Embeddings from Speech](https://arxiv.org/abs/1803.08976))🔊
+- [Optimization of Indexing Based on k-Nearest Neighbor Graph for Proximity Search in High-dimensional Data](https://arxiv.org/abs/1810.07355) 🔊
 - [Fast Approximate Nearest Neighbor Search With The
 Navigating Spreading-out Graph](http://www.vldb.org/pvldb/vol12/p461-fu.pdf)
 - [The Case for Learned Index Structures](https://dl.acm.org/doi/10.1145/3183713.3196909)
@@ -128,6 +129,7 @@ Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.1017
 - [An Analysis of Fusion Functions for Hybrid Retrieval](https://arxiv.org/abs/2210.11934)📄
 - [Out-of-distribution Detection with Deep Nearest Neighbors](https://arxiv.org/abs/2204.06507)
 - [ESB: A Benchmark For Multi-Domain End-to-End Speech Recognition](https://arxiv.org/abs/2210.13352)🔊
+- [Analyzing Acoustic Word Embeddings From Pre-Trained Self-Supervised Speech Models](https://arxiv.org/pdf/2210.16043.pdf))🔊
 - [Rethinking with Retrieval: Faithful Large Language Model Inference](https://arxiv.org/abs/2301.00303)📄
 - [Precise Zero-Shot Dense Retrieval without Relevance Labels](https://arxiv.org/pdf/2212.10496.pdf)📄
 
