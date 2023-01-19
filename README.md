@@ -118,6 +118,7 @@ Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.1017
 - [SPANN: Highly-efficient Billion-scale Approximate Nearest Neighbor Search](https://arxiv.org/abs/2111.08566)
 - [GPL: Generative Pseudo Labeling for Unsupervised Domain Adaptation of Dense Retrieval](https://arxiv.org/abs/2112.07577) 📄
 - [Generative Search Engines: Initial Experiments](https://computationalcreativity.net/iccc21/wp-content/uploads/2021/09/ICCC_2021_paper_50.pdf) 📷
+- [Rethinking Search: Making Domain Experts out of Dilettantes](https://dl.acm.org/doi/10.1145/3476415.3476428)
 
 ### 2022
 - [Text and Code Embeddings by Contrastive Pre-Training](https://arxiv.org/abs/2201.10005)📄
@@ -128,6 +129,7 @@ Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.1017
 - [Out-of-distribution Detection with Deep Nearest Neighbors](https://arxiv.org/abs/2204.06507)
 - [ESB: A Benchmark For Multi-Domain End-to-End Speech Recognition](https://arxiv.org/abs/2210.13352)🔊
 - [Rethinking with Retrieval: Faithful Large Language Model Inference](https://arxiv.org/abs/2301.00303)📄
+- [Precise Zero-Shot Dense Retrieval without Relevance Labels](https://arxiv.org/pdf/2212.10496.pdf)📄
 
 ## Articles
 - [Tackling Semantic Search](https://adityamalte.substack.com/p/tackle-semantic-search/)
