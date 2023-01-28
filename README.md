@@ -132,6 +132,7 @@ Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.1017
 - [Analyzing Acoustic Word Embeddings From Pre-Trained Self-Supervised Speech Models](https://arxiv.org/pdf/2210.16043.pdf))🔊
 - [Rethinking with Retrieval: Faithful Large Language Model Inference](https://arxiv.org/abs/2301.00303)📄
 - [Precise Zero-Shot Dense Retrieval without Relevance Labels](https://arxiv.org/pdf/2212.10496.pdf)📄
+- [Transformer Memory as a Differentiable Search Index](https://arxiv.org/abs/2202.06991)📄
 
 ## Articles
 - [Tackling Semantic Search](https://adityamalte.substack.com/p/tackle-semantic-search/)
