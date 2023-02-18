@@ -96,6 +96,7 @@ Neighbor Search on a Single Node](https://proceedings.neurips.cc/paper/2019/file
 - [Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval](https://arxiv.org/abs/2007.00808v1)📄
 - [Unsupervised Image Style Embeddings for Retrieval and Recognition Tasks](https://openaccess.thecvf.com/content_WACV_2020/papers/Gairola_Unsupervised_Image_Style_Embeddings_for_Retrieval_and_Recognition_Tasks_WACV_2020_paper.pdf)📷
 - [DeCLUTR: Deep Contrastive Learning for Unsupervised Textual Representations](https://arxiv.org/abs/2006.03659)📄
+
 ### 2021
 - [Hybrid approach for semantic similarity calculation  between Tamil words](https://www.researchgate.net/publication/350112163_Hybrid_approach_for_semantic_similarity_calculation_between_Tamil_words) 📄
 - [Augmented SBERT](https://arxiv.org/pdf/2010.08240.pdf) 📄
@@ -148,6 +149,7 @@ Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.1017
 - [Introducing the hybrid index to enable keyword-aware semantic search](https://www.pinecone.io/learn/hybrid-search/?utm_medium=email&_hsmi=0&_hsenc=p2ANqtz--zLu9hiyh-y_XTa7FCEpi8JESJKmif5dhpYtAxTWka8PIttaTOGE21LMZlg9EOZyPYpCm6GDvYy57tlGRwH6TjgLCsJg&utm_content=231741722&utm_source=hs_email)
 - [Argilla Semantic Search](https://docs.argilla.io/en/latest/guides/features/semantic-search.html)
 - [Co:here's Multilingual Text Understanding Model](https://txt.cohere.ai/multilingual/)
+
 ## Libraries and Tools
 - [fastText](https://fasttext.cc/)
 - [Universal Sentence Encoder](https://tfhub.dev/google/universal-sentence-encoder/4)
@@ -201,10 +203,12 @@ Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.1017
 - [vectorai](https://github.com/vector-ai/vectorai)
 - [embeddinghub](https://github.com/featureform/embeddinghub)
 - [AquilaDb](https://github.com/Aquila-Network/AquilaDB)
+
 ## Datasets
 - [Semantic Text Similarity Dataset Hub](https://github.com/brmson/dataset-sts)
 - [Facebook AI Image Similarity Challenge](https://www.drivendata.org/competitions/79/competition-image-similarity-1-dev/?fbclid=IwAR31vRV0EdxRdrxtPy12neZtBJQ0H9qdLHm8Wl2DjHY09PtQdn1nEEIJVUo)
 - [WIT : Wikipedia-based Image Text Dataset](https://github.com/google-research-datasets/wit)
+
 ## Milestones
 
 Have a look at the [project board](https://github.com/Agrover112/awesome-semantic-search/projects/1) for the task list to contribute to any of the open issues.
