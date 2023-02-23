@@ -203,6 +203,7 @@ Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.1017
 - [vectorai](https://github.com/vector-ai/vectorai)
 - [embeddinghub](https://github.com/featureform/embeddinghub)
 - [AquilaDb](https://github.com/Aquila-Network/AquilaDB)
+- [STripNet](https://github.com/stephenleo/stripnet)
 
 ## Datasets
 - [Semantic Text Similarity Dataset Hub](https://github.com/brmson/dataset-sts)
