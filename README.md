@@ -140,6 +140,7 @@ Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.1017
 - [Tackling Semantic Search](https://adityamalte.substack.com/p/tackle-semantic-search/)
 - [Semantic search in Azure Cognitive Search](https://docs.microsoft.com/en-us/azure/search/semantic-search-overview)
 - [How we used semantic search to make our search 10x smarter](https://zilliz.com/blog/How-we-used-semantic-search-to-make-our-search-10-x-smarter/)
+- [Stanford AI Blog : Building Scalable, Explainable, and Adaptive NLP Models with Retrieval](https://ai.stanford.edu/blog/retrieval-based-NLP/)
 - [Building a semantic search engine with dual space word embeddings](https://m.mage.ai/building-a-semantic-search-engine-with-dual-space-word-embeddings-f5a596eb6d90)
 - [Billion-scale semantic similarity search with FAISS+SBERT](https://towardsdatascience.com/billion-scale-semantic-similarity-search-with-faiss-sbert-c845614962e2)
 - [Some observations about similarity search thresholds](https://greglandrum.github.io/rdkit-blog/similarity/reference/2021/05/26/similarity-threshold-observations1.html)
