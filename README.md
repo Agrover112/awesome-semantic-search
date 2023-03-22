@@ -122,6 +122,7 @@ Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.1017
 - [GPL: Generative Pseudo Labeling for Unsupervised Domain Adaptation of Dense Retrieval](https://arxiv.org/abs/2112.07577) 📄
 - [Generative Search Engines: Initial Experiments](https://computationalcreativity.net/iccc21/wp-content/uploads/2021/09/ICCC_2021_paper_50.pdf) 📷
 - [Rethinking Search: Making Domain Experts out of Dilettantes](https://dl.acm.org/doi/10.1145/3476415.3476428)
+-[WhiteningBERT: An Easy Unsupervised Sentence Embedding Approach](https://arxiv.org/abs/2104.01767)
 
 ### 2022
 - [Text and Code Embeddings by Contrastive Pre-Training](https://arxiv.org/abs/2201.10005)📄
