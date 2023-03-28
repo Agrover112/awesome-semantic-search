@@ -164,6 +164,7 @@ Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.1017
 - [Jina.AI](https://jina.ai/)
 - [pinecone](https://www.pinecone.io/)
 - [SentEval Toolkit](https://github.com/facebookresearch/SentEval?utm_source=catalyzex.com)
+- [ranx](https://github.com/AmenRa/ranx)
 - [BEIR :Benchmarking IR](https://github.com/UKPLab/beir)
 - [RELiC: Retrieving Evidence for Literary Claims Dataset](https://relic.cs.umass.edu/)
 - [matchzoo-py](https://github.com/NTMC-Community/MatchZoo-py)
