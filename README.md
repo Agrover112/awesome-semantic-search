@@ -27,6 +27,7 @@ Feel free to raise a PR on this repo!
     - [2020](#2020)
     - [2021](#2021)
     - [2022](#2022)
+    - [2023](#2023)
 - [Articles](#articles)
 - [Libraries and Tools](#libraries-and-tools)
 - [Datasets](#datasets)
@@ -136,6 +137,9 @@ Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.1017
 - [Rethinking with Retrieval: Faithful Large Language Model Inference](https://arxiv.org/abs/2301.00303)📄
 - [Precise Zero-Shot Dense Retrieval without Relevance Labels](https://arxiv.org/pdf/2212.10496.pdf)📄
 - [Transformer Memory as a Differentiable Search Index](https://arxiv.org/abs/2202.06991)📄
+
+### 2023
+- [FINGER: Fast Inference for Graph-based Approximate Nearest Neighbor Search](https://dl.acm.org/doi/10.1145/3543507.3583318)📄
 
 ## Articles
 - [Tackling Semantic Search](https://adityamalte.substack.com/p/tackle-semantic-search/)
