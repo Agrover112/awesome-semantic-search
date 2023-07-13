@@ -140,6 +140,7 @@ Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.1017
 
 ### 2023
 - [FINGER: Fast Inference for Graph-based Approximate Nearest Neighbor Search](https://dl.acm.org/doi/10.1145/3543507.3583318)📄
+- [“Low-Resource” Text Classification: A Parameter-Free Classification Method with Compressors](https://aclanthology.org/2023.findings-acl.426/)📄
 
 ## Articles
 - [Tackling Semantic Search](https://adityamalte.substack.com/p/tackle-semantic-search/)
