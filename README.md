@@ -158,6 +158,7 @@ Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.1017
 - [Introducing the hybrid index to enable keyword-aware semantic search](https://www.pinecone.io/learn/hybrid-search/?utm_medium=email&_hsmi=0&_hsenc=p2ANqtz--zLu9hiyh-y_XTa7FCEpi8JESJKmif5dhpYtAxTWka8PIttaTOGE21LMZlg9EOZyPYpCm6GDvYy57tlGRwH6TjgLCsJg&utm_content=231741722&utm_source=hs_email)
 - [Argilla Semantic Search](https://docs.argilla.io/en/latest/guides/features/semantic-search.html)
 - [Co:here's Multilingual Text Understanding Model](https://txt.cohere.ai/multilingual/)
+- [Simplify Search woth Multilingual Embedding Models](https://blog.vespa.ai/simplify-search-with-multilingual-embeddings/)
 
 ## Libraries and Tools
 - [fastText](https://fasttext.cc/)
