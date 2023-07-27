@@ -7,7 +7,8 @@
 
 Logo made by [@createdbytango](https://instagram.com/createdbytango). 
 
-**Looking for Maintainers**
+**Looking for More Paper Additions.
+PS: Raise a PR**
 
 Following repository aims to serve a meta-repository for [Semantic Search](https://en.wikipedia.org/wiki/Semantic_search) and [Semantic Similarity](http://nlpprogress.com/english/semantic_textual_similarity.html) related tasks.
 
@@ -141,6 +142,7 @@ Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.1017
 ### 2023
 - [FINGER: Fast Inference for Graph-based Approximate Nearest Neighbor Search](https://dl.acm.org/doi/10.1145/3543507.3583318)📄
 - [“Low-Resource” Text Classification: A Parameter-Free Classification Method with Compressors](https://aclanthology.org/2023.findings-acl.426/)📄
+- [SparseEmbed: Learning Sparse Lexical Representations with Contextual Embeddings for Retrieval](https://dl.acm.org/doi/pdf/10.1145/3539618.3592065) 📄
 
 ## Articles
 - [Tackling Semantic Search](https://adityamalte.substack.com/p/tackle-semantic-search/)
