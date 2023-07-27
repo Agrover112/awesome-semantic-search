@@ -220,6 +220,8 @@ Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.1017
 - [Semantic Text Similarity Dataset Hub](https://github.com/brmson/dataset-sts)
 - [Facebook AI Image Similarity Challenge](https://www.drivendata.org/competitions/79/competition-image-similarity-1-dev/?fbclid=IwAR31vRV0EdxRdrxtPy12neZtBJQ0H9qdLHm8Wl2DjHY09PtQdn1nEEIJVUo)
 - [WIT : Wikipedia-based Image Text Dataset](https://github.com/google-research-datasets/wit)
+- [BEIR](https://github.com/beir-cellar/beir)
+- MTEB
 
 ## Milestones
 
