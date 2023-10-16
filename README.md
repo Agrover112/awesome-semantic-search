@@ -38,7 +38,7 @@ Feel free to raise a PR on this repo!
 
 ### 2010
 - [Priority Range Trees](https://arxiv.org/abs/1009.3527)
-- [Information Retrieval and the semantic web](https://ieeexplore.ieee.org/document/5607549)
+- [Information Retrieval and the semantic web](https://ieeexplore.ieee.org/document/5607549) 📄
 
 ### 2014 
 - [A Latent Semantic Model with Convolutional-Pooling 
