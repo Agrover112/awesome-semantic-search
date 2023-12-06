@@ -201,6 +201,7 @@ Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.1017
 - [autofaiss](https://github.com/criteo/autofaiss)
 - [DPR](https://github.com/facebookresearch/DPR)
 - [rank_BM25](https://github.com/dorianbrown/rank_bm25)
+- [FlashRank](https://github.com/PrithivirajDamodaran/FlashRank)
 - [nearPy](http://pixelogik.github.io/NearPy/)
 - [vearch](https://github.com/vearch/vearch)
 - [vespa](https://github.com/vespa-engine/vespa)
