@@ -172,6 +172,7 @@ Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.1017
 - [Haystack](https://github.com/deepset-ai/haystack/)
 - [Jina.AI](https://jina.ai/)
 - [pinecone](https://www.pinecone.io/)
+- [Rivestack](https://rivestack.io) - Managed PostgreSQL with pgvector. Built-in SQL editor lets you query your database with natural language (auto-converted to vector embeddings). Free tier includes 2GB storage.
 - [SentEval Toolkit](https://github.com/facebookresearch/SentEval?utm_source=catalyzex.com)
 - [ranx](https://github.com/AmenRa/ranx)
 - [BEIR :Benchmarking IR](https://github.com/UKPLab/beir)
