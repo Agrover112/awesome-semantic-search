@@ -170,6 +170,7 @@ Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.1017
 - [LASER](https://github.com/facebookresearch/LASER)
 - [Relevance AI - Vector Platform From Experimentation To Deployment](https://relevance.ai)
 - [Haystack](https://github.com/deepset-ai/haystack/)
+- [Dakera](https://github.com/dakera-ai/dakera-deploy) — Production-ready persistent memory layer for agents: hybrid BM25 + dense vector retrieval, temporal reasoning, and importance-weighted decay for accurate semantic search.
 - [Jina.AI](https://jina.ai/)
 - [pinecone](https://www.pinecone.io/)
 - [SentEval Toolkit](https://github.com/facebookresearch/SentEval?utm_source=catalyzex.com)
