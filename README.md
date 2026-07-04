@@ -218,6 +218,7 @@ Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.1017
 - [AquilaDb](https://github.com/Aquila-Network/AquilaDB)
 - [STripNet](https://github.com/stephenleo/stripnet)
 - [ZhihuAgent](https://github.com/SamuelGong/ZhihuAgent)
+- [AIConfPaper - Semantic search over accepted AI-conference papers, with a REST API for agents.](https://aiconfpaper.com)
 
 ## Datasets
 - [Semantic Text Similarity Dataset Hub](https://github.com/brmson/dataset-sts)
