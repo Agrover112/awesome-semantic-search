@@ -184,6 +184,7 @@ Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.1017
 - [PySerini](https://github.com/castorini/pyserini)
 - [BERTSerini](https://github.com/rsvp-ai/bertserini)
 - [BERTSimilarity](https://github.com/Brokenwind/BertSimilarity)
+- [semantic-similarity-cli](https://github.com/cedendahlkim/semantic-similarity-cli) - CLI tool for semantic text comparison using hyperdimensional computing (HDC) with offline fallback
 - [milvus](https://www.milvus.io/)
 - [NeuroNLP++](https://plusplus.neuronlp.fruitflybrain.org/)
 - [weaviate](https://github.com/semi-technologies/weaviate)
