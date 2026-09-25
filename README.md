@@ -163,6 +163,7 @@ Similarity Analysis of Acoustic Word Embeddings](https://arxiv.org/pdf/2109.1017
 
 ## Libraries and Tools
 - [fastText](https://fasttext.cc/)
+- [me_fasttext](https://github.com/initial-d/me_fasttext) - FastText-derived C++ prototype for memory-efficient lexical retrieval with exact trie n-gram IDs and mmap serving.
 - [Universal Sentence Encoder](https://tfhub.dev/google/universal-sentence-encoder/4)
 - [SBERT](https://www.sbert.net/)
 - [ELECTRA](https://github.com/google-research/electra)
